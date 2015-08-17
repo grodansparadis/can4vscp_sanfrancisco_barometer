@@ -1,0 +1,2 @@
+# can4vscp_sanfrancisco_barometer
+CAN4VSCP barometer module
