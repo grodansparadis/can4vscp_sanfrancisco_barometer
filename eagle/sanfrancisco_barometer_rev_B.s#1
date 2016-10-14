@@ -17949,7 +17949,7 @@ Vin up to 26V, Reverse Batterie/Load Dump/Short Circuit/Overload Protection,</de
 <text x="200.66" y="177.8" size="1.778" layer="91">ALPS SKHH</text>
 <text x="200.66" y="175.26" size="1.778" layer="91">Horizontal type</text>
 <text x="378.46" y="7.62" size="1.778" layer="91">B</text>
-<text x="289.56" y="27.94" size="5.08" layer="91">San Franscisco Barometer</text>
+<text x="289.56" y="27.94" size="5.08" layer="91">San Franscisco</text>
 <text x="365.76" y="25.4" size="1.778" layer="91">http://www.vscp.org</text>
 <text x="287.02" y="241.3" size="1.778" layer="91">Input voltage</text>
 <text x="287.02" y="238.76" size="1.778" layer="91">+7V DC - +40V DC</text>
@@ -17962,6 +17962,7 @@ Vin up to 26V, Reverse Batterie/Load Dump/Short Circuit/Overload Protection,</de
 <text x="231.14" y="254" size="1.778" layer="91">mount for on board </text>
 <text x="231.14" y="251.46" size="1.778" layer="91">termination</text>
 <text x="231.14" y="259.08" size="1.778" layer="91">R17</text>
+<text x="289.56" y="22.86" size="1.778" layer="91">Barometer/BLE</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

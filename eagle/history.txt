@@ -1,6 +1,8 @@
 San Fransisco
 =============
 
+2016-04-06 - AKHE Remopved VCC connection V-CAP
+REV-C -----------------------------------------------------------------------
 2014-06-19 - AKHE Fixed dimensions
 2014-06-18 - AKHE Off to factory
 2014-06-02 - AKHE Added missing power to the C11 resistor. 

@@ -17936,6 +17936,8 @@ Vin up to 26V, Reverse Batterie/Load Dump/Short Circuit/Overload Protection,</de
 <part name="GND25" library="SUPPLY1" deviceset="GND" device=""/>
 <part name="C14" library="rcl" deviceset="C-EU" device="C0805" value="0.1uF"/>
 <part name="GND28" library="SUPPLY1" deviceset="GND" device=""/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="10K"/>
+<part name="P+11" library="SUPPLY1" deviceset="VCC" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -18051,6 +18053,8 @@ Vin up to 26V, Reverse Batterie/Load Dump/Short Circuit/Overload Protection,</de
 <instance part="GND25" gate="1" x="266.7" y="20.32"/>
 <instance part="C14" gate="G$1" x="276.86" y="27.94" rot="R180"/>
 <instance part="GND28" gate="1" x="276.86" y="20.32"/>
+<instance part="R1" gate="G$1" x="43.18" y="223.52" rot="R90"/>
+<instance part="P+11" gate="VCC" x="43.18" y="236.22"/>
 </instances>
 <busses>
 </busses>
@@ -18127,6 +18131,11 @@ Vin up to 26V, Reverse Batterie/Load Dump/Short Circuit/Overload Protection,</de
 <wire x1="81.28" y1="114.3" x2="81.28" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="114.3" x2="81.28" y2="114.3" width="0.1524" layer="91"/>
 <junction x="81.28" y="114.3"/>
+</segment>
+<segment>
+<pinref part="R1" gate="G$1" pin="2"/>
+<pinref part="P+11" gate="VCC" pin="VCC"/>
+<wire x1="43.18" y1="228.6" x2="43.18" y2="233.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -18594,11 +18603,21 @@ Vin up to 26V, Reverse Batterie/Load Dump/Short Circuit/Overload Protection,</de
 <junction x="276.86" y="35.56"/>
 </segment>
 </net>
-<net name="N$8" class="0">
+<net name="RESETB" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="RESETB"/>
 <wire x1="259.08" y1="40.64" x2="264.16" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="264.16" y1="40.64" x2="264.16" y2="66.04" width="0.1524" layer="91"/>
+<label x="256.54" y="66.04" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="IC1" gate="G$1" pin="RA0/AN0"/>
+<wire x1="81.28" y1="213.36" x2="43.18" y2="213.36" width="0.1524" layer="91"/>
+<label x="22.86" y="213.36" size="1.778" layer="95"/>
+<pinref part="R1" gate="G$1" pin="1"/>
+<wire x1="43.18" y1="213.36" x2="35.56" y2="213.36" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="218.44" x2="43.18" y2="213.36" width="0.1524" layer="91"/>
+<junction x="43.18" y="213.36"/>
 </segment>
 </net>
 <net name="PIC_CTS" class="0">

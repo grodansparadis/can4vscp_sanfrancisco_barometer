@@ -1,0 +1,1 @@
+160404 AKHE - Changed value of C14 to 10uF

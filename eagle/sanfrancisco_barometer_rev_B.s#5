@@ -18639,6 +18639,13 @@ Vin up to 26V, Reverse Batterie/Load Dump/Short Circuit/Overload Protection,</de
 <label x="185.42" y="50.8" size="1.778" layer="95"/>
 </segment>
 </net>
+<net name="PIC_RTS" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="RB0/INT0"/>
+<wire x1="142.24" y1="226.06" x2="152.4" y2="226.06" width="0.1524" layer="91"/>
+<label x="144.78" y="226.06" size="1.778" layer="95"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
