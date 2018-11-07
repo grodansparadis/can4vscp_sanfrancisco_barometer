@@ -1,0 +1,63 @@
+Temperature   
+Pressure
+
+Registers
+=========
+
+0 - Zone
+1 - Subzone
+
+
+Bit 1,2 - Unit Pressure
+Bit 2 - Enable Low alarm.
+Bit 3 - Enable high alarm.
+Bit 4 - Enable height measurements
+Bit 5 - Use ON Events
+Bit 7 - Invert ON Events.
+
+2 - Control 1 - Barometer
+
+Bit 0,1 - Unit Temperature.
+Bit 2 - Enable Low alarm.
+Bit 3 - Enable high alarm.
+Bit 5 - Use ON Events
+Bit 7 - Invert ON Events.
+
+4 - Control 2 - Temperature
+
+Report interval Temperature
+Report interval Pressure
+Calibration temperature.
+Calibration Pressure.
+Pressure at sealevel (set for height measurement otherwise calculated.)
+Height.
+Change trend minute
+Change trend hour
+change trend 12 hour
+
+10 - Pressure 
+
+20 - Temperature long
+
+30 - Low temperature alarm point.
+32 - High temperature alarm point.
+
+30 - Low pressure alarm point.
+32 - High pressure alarm point.
+
+33 - Hysteresis - Temperature alarm
+34 - Husteresis - Pressure alarm.
+
+Events
+======
+
+Temperature
+Pressure
+Alarm for each
+
+Decision Matrix
+===============
+
+0 - Noop
+1 - Sync
+2 - Set pressure at sealevel.

@@ -1,0 +1,1407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="sv" xml:lang="sv">
+<head>
+	
+	<!-- CMS identifier is tag page = LogonPage -->
+	
+	<title>Farnell element14</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+
+
+
+    <style id="antiClickjack"></style>
+
+    <script type="text/javascript">
+<!-- 
+_csrf_ = { pn : "csrt", pv : '5300672448454621093', vh : [  ], vu : [  ], f : 0, f_cancel_onload : 0 };
+if (typeof _is_ajsp_running_ == "undefined") { _is_ajsp_running_ = false; }
+//-->
+</script>
+<script type="text/javascript">
+<!--
+if(typeof _csrf_=="undefined"){_csrf_={}}if(typeof _tsbp_=="undefined"){_tsbp_={}}if(typeof _csrf_.vh=="undefined"){_csrf_.vh=[]}if(typeof _csrf_.vu=="undefined"){_csrf_.vu=[/.*/]}if(typeof _csrf_.f_cancel_onload=="undefined"){_csrf_.f_cancel_onload=false}var _csrff_cancel_onload_=_csrf_.f_cancel_onload;(function(c,m){var l=function(e,b){if(e!==null&&b!==null){if(e=="1"){window.location.href=b;return true}else{if(e=="2"){f(b);return true}else{if(e=="3"){document.write(b);document.close();return true}}}}return false};var i=function(b){var s=b;if(typeof b.target!="undefined"){s=b.target;if(s.readyState==4){s.removeEventListener("readystatechange",i,false)}}if(s.readyState==4){var p=s.getResponseHeader(m.ba);var e=s.responseText;return l(p,e)}return false};var f=function(b){if(window.document.body){var s=document.getElementById("_tsbp_tId");if(!s){var p=document.createElement("div");p.style.display="none";window.document.body.insertBefore(p,window.document.body.firstChild);var e="background-color: #dddddd; ";e+="border: 5px solid red; padding: 5px; ";e+="position: fixed; left: 6px; top: 10px; height: auto; width: auto; ";e+="overflow: hidden; z-index: 999999;";p.innerHTML='<div id="_tsbp_aId" style="'+e+'"><div id=\'_tsbp_tId\'></div><div style="height: 10px; font-weight: bold; margin: 10px 10px 10px 10px; text-align: right;"><a href="javascript: void(0);" onclick="document.getElementById(\'_tsbp_aId\').parentNode.style.display = \'none\';"><span><span>[Close this message]</span></span></a></div></div>';s=document.getElementById("_tsbp_tId")}s.innerHTML=b;document.getElementById("_tsbp_aId").parentNode.style.display=""}};var q=function(b){return b.split("&").join("&amp;").split("<").join("&lt;").split('"').join("&quot;")};var k=function(e){if(/^\w+:/.test(e)===false){var b=document.createElement("div");b.innerHTML='<a href="'+q(e)+'">.</a>';e=b.firstChild.href}return e};var h=function(s,b){var v=s;var t=k(v);if(v!=null&&v!=""){if(o(t)&&d(t)&&n(t)&&(-1==v.indexOf(c.pn+"="+c.pv))){var p=v.indexOf("#");var w;if(p!=-1){w=v.substring(p);v=v.substring(0,p)}var e=v.indexOf("?");if(e==-1){if(b==="POST"||b==="post"){v+="?"}else{return s}}if(v.search(/\?$/)==-1){v+="&"}v+=c.pn+"="+c.pv;if(p!=-1){v+=w}}}return v};var d=function(t){var s=window.document.createElement("a");s.href=t;if(typeof s.pathname=="undefined"){return true}u=s.pathname;if(u===""||u[0]!=="/"){u="/"+u}for(var b=0;b<c.vu.length;b++){try{if(u.match(c.vu[b])){return true}}catch(p){return true}}return false};var n=function(v){var p=function(z){var A=window.document.createElement("a");A.href=z;var w="-";try{w=A.host;if(!w){w=window.location.hostname}if(w.match(/:\d+$/)){var y=window.location.hostname;if(!y.match(/:\d+$/)){w=w.replace(/:\d+$/,"")}}}catch(x){}return w};var t=p(v);if(true&&window&&window.location&&window.location.hostname&&t===window.location.hostname){return true}for(var b=0;b<c.vh.length;b++){try{if(t.match(c.vh[b])){return true}}catch(s){}}return false};var o=function(e){var b=false;if(e.match(/^http/i)||e.substring(0,1)=="/"||(e.indexOf("://")==-1&&!e.match(/^urn:/i))){b=true}if(e.match(/^mailto:/i)){b=false}return b};var a=function(w){if(!w||typeof w.elements=="undefined"){return}for(var s=0;s<w.elements.length;s++){if(w.elements[s].name===c.pn){return}}var v=(w.attributes.action!=null)?w.attributes.action.value:"";try{v.match(/./)}catch(x){v=window.location.href}if((!v)||(v===null)||(v===undefined)||(v.match(/^\s*$/))){v=window.location.href}v=k(v);if(d(v)&&o(v)&&n(v)){var t=(w.attributes.method!=null)?w.attributes.method.value:"";if(c.f==0&&t.toLowerCase()=="post"){try{var p=v.indexOf("#");var y="";if(p!=-1){y=v.substring(p);v=v.substring(0,p)}if(v.indexOf("?")==-1){v+="?"}v=h(v,"GET");if(!w.attributes.action){w.setAttributeNode(document.createAttribute("action"))}w.attributes.action.value=v+y}catch(x){}return}var b=document.createElement("input");b.type="hidden";b.name=c.pn;b.value=c.pv;w.appendChild(b)}};var r=function(){var b=window.document.getElementsByTagName("a");for(var x=0;x<b.length;x++){try{var y=b[x].innerHTML;var s=h(b[x].getAttribute("href",2),"GET");if(s!=null&&s!=""){b[x].setAttribute("href",s);if(b[x].innerHTML!=y){b[x].innerHTML=y}}}catch(v){}}var w=window.document.getElementsByTagName("form");for(var t=0;t<w.length;t++){a(w[t])}if(_csrff_cancel_onload_){_csrff_cancel_onload_=false;var z=window.document.getElementsByTagName("body");if(z){var p=z[0].getAttribute("onload");if(p){p()}}}};var g=function(){var b=window.XMLHttpRequest;function e(){this.base=b?new b:new window.ActiveXObject("Microsoft.XMLHTTP")}function p(){return new e}p.prototype=e.prototype;p.UNSENT=0;p.OPENED=1;p.HEADERS_RECEIVED=2;p.LOADING=3;p.DONE=4;p.prototype.status=0;p.prototype.statusText="";p.prototype.readyState=p.UNSENT;p.prototype.responseText="";p.prototype.responseXML=null;p.prototype.onsend=null;p.url=null;p.onreadystatechange=null;p.prototype.open=function(y,v,w,t,x){var s=this;this.url=v;if(c.pn){this.url=h(v,y)}this.base.onreadystatechange=function(){try{s.status=s.base.status}catch(z){}try{s.statusText=s.base.statusText}catch(z){}try{s.readyState=s.base.readyState}catch(z){}try{s.responseText=s.base.responseText}catch(z){}try{s.responseXML=s.base.responseXML}catch(z){}if(m.ba&&m.bh&&i(this)){return}if(s.onreadystatechange!=null){s.onreadystatechange.apply(this,arguments)}};this.base.open(y,this.url,w,t,x)};p.prototype.send=function(s){if(m.ba&&m.bh){this.base.setRequestHeader(m.bh,"true")}this.base.send(s)};p.prototype.abort=function(){this.base.abort()};p.prototype.getAllResponseHeaders=function(){return this.base.getAllResponseHeaders()};p.prototype.getResponseHeader=function(s){return this.base.getResponseHeader(s)};p.prototype.setRequestHeader=function(s,t){return this.base.setRequestHeader(s,t)};window.XMLHttpRequest=p};do{try{if(_is_ajsp_running_){break}_is_ajsp_running_=true;if(navigator.appName=="Microsoft Internet Explorer"){g()}else{if(c.pn){XMLHttpRequest.prototype._open=XMLHttpRequest.prototype.open;XMLHttpRequest.prototype.open=function(t,e,p,b,s){arguments[1]=h(e,t);this._open.apply(this,arguments)}}if(m.ba&&m.bh){XMLHttpRequest.prototype._tsbp_s=XMLHttpRequest.prototype.__lookupSetter__("onreadystatechange");if(typeof XMLHttpRequest.prototype._tsbp_s!="undefined"){XMLHttpRequest.prototype.__defineSetter__("onreadystatechange",function(e){var b=function(){if(i(this)){return}e()};this._tsbp_s(b)})}XMLHttpRequest.prototype._send=XMLHttpRequest.prototype.send;XMLHttpRequest.prototype.send=function(b){this.setRequestHeader(m.bh,"true");if((XMLHttpRequest.prototype._tsbp_s==null)&&(typeof this.addEventListener==="function")){this.addEventListener("readystatechange",i,false)}this._send.apply(this,arguments)}}}}catch(j){}}while(0);if(c.pv!=undefined){if(!!window.addEventListener){window.addEventListener("load",r,false)}else{if(!!window.attachEvent){window.attachEvent("onload",r)}else{window.onload=r}}}delete _csrf_;delete _tsbp_})(_csrf_,_tsbp_,_is_ajsp_running_);
+//-->
+</script>
+<script type="text/javascript">         
+        var antiClickjack = document.getElementById("antiClickjack");   
+        if (self === top) {         
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {            
+            try {
+                //these are framed pages so check url domain matches 
+                if(window.location.hostname != top.location.hostname){
+                    //url doesnt match so force this to be the top location.
+                    top.location = self.location;
+                } else {
+                    //show page as url checks out ok                    
+                    antiClickjack.parentNode.removeChild(antiClickjack);
+                }
+            } catch (e) {
+                //script access issue
+                top.location = self.location;
+            }                       
+        }
+        
+    </script>
+<link rel="stylesheet" type="text/css" media="all" href="/wcsstore7.00.10.462/jawr/jawrTmp/text/bundles/global.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/wcsstore7.00.10.462/jawr/jawrTmp/text/bundles/mkglobal.css" />
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="all" href="/wcsstore7.00.10.462/jawr/jawrTmp/text/css/ie6styles.css" />
+<![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="/wcsstore7.00.10.462/jawr/jawrTmp/text/css/ie7styles.css" />
+<![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/wcsstore7.00.10.462/jawr/jawrTmp/text/css/ie8styles.css" />
+<![endif]-->
+<!--[if IE 9]><link rel="stylesheet" type="text/css" media="all" href="/wcsstore7.00.10.462/jawr/jawrTmp/text/css/ie9styles.css" />
+<![endif]-->
+
+
+<link rel="stylesheet" href="/wcsstore7.00.10.462/SafeB2BStorefrontAssetStore/css/print.css" type="text/css" media="print"/>
+
+
+<script type="text/javascript">
+    (function () {
+            'use strict';
+
+            window.Adoro = {};
+        window.pfCheckoutHelperJS = {};
+        window.PFCommonHelperJS = {};
+
+            if (window.pf == null) window.pf = {};
+            if(!pf.inlineScripts) pf.inlineScripts = [];
+            if(!pf.postInlineScripts) pf.postInlineScripts = [];
+        
+            pf.inlineScripts.push(function(){
+                if (window.storeId == null) {
+                    window.storeId = '10177';
+                }
+                pf.base.pageName = 'UserLogin'; // This should be set in the parent of each page
+                pf.base.scriptLocation = '/wcsstore7.00.10.462/SafeB2BStorefrontAssetStore/js';
+                pf.tagging.data.omniture.loginTimeout = '1200';
+            
+			    pf.base.packageVariation = 'true';
+			
+            });
+        }());
+</script>
+
+
+<script id="dojo-config" type="text/javascript">
+    if (typeof dojoConfig === 'undefined') {
+	var dojoConfig = {};
+}
+
+dojoConfig.async = true;
+dojoConfig.parseOnLoad = false;
+dojoConfig.isDebug = false;
+dojoConfig.basePath = '../';
+
+dojoConfig.packages = [{
+	name: 'dojo',
+	location: '../lib/dojo-1.10.4/dojo'
+}, {
+	name: 'dijit',
+	location: '../lib/dojo-1.10.4/dijit'
+}, {
+	name: 'dojox',
+	location: '../lib/dojo-1.10.4/dojox'
+}, {
+	name: 'pf',
+	location: 'pf'
+}];
+    dojoConfig.locale = 'sv-se';
+    dojoConfig.baseUrl = '/wcsstore7.00.10.462/SafeB2BStorefrontAssetStore/js/dist';;
+</script>
+
+
+
+<script id="dojo-page-require" type="text/javascript">
+    if (dojoConfig.deps == null) {
+        dojoConfig.deps = [];
+    }
+    dojoConfig.deps.push('pf/UserLogin');
+</script>
+<!--[if lte IE 8]>
+<script id="polyfills-lt_ie8" type="text/javascript">
+    dojoConfig.deps.push('pf/utils/polyfills-lt_ie8');
+</script>
+<![endif]-->
+
+
+
+        <script id="adjust-dojo-paths" type="text/javascript">
+            if(dojoConfig.packages && dojoConfig.packages.length){
+               if(dojoConfig.packages[0].name == 'dojo'){
+                    dojoConfig.packages[0].location = '/wcsstore7.00.10.462/SafeB2BStorefrontAssetStore/js/dist/dojo';
+               }
+               if(dojoConfig.packages[1].name == 'dijit'){
+                    dojoConfig.packages[1].location = '/wcsstore7.00.10.462/SafeB2BStorefrontAssetStore/js/dist/dijit';
+               }
+               if(dojoConfig.packages[2].name == 'dojox'){
+                    dojoConfig.packages[2].location = '/wcsstore7.00.10.462/SafeB2BStorefrontAssetStore/js/dist/dojox';
+               }
+            }
+        </script>
+        
+        <script src="/wcsstore7.00.10.462/SafeB2BStorefrontAssetStore/js/dist/dojo/dojo.js"></script> 
+    
+
+<script type="text/javascript">
+	pf.postInlineScripts.push(function(){
+		dojo.addOnLoad(function() {
+			if(pf && pf.validate){
+				//set up extended rules
+				pf.validate.extendedRules = {};
+				//populate extended rules
+				
+					pf.validate.extendedRuleDefaultMessge = 'Du har angivit ett värde med ogiltiga tecken i de markerade fälten nedan. Granska ditt val och ange endast <a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFCMSContentRequest?catalogId=15001&langId=46&storeId=10177&requestURI=faqs-my-account#formvalidchars" target="_blank" class="errorMessageLink" >giltiga tecken</a>.';
+					pf.validate.extendedRules['Logon'] = {};
+					//alert('Logon');
+				 	
+				 			pf.validate.extendedRules['Logon']['logonId'] = {};
+				 			var oField = pf.validate.extendedRules['Logon']['logonId'];
+				 			oField.extensions = {};
+				 			
+				 				
+				 					var oValidator = {};
+				 					if(oField.type){
+				 						//already exists to use extensions obj
+				 						oField.extensions['CharacterSet'] = {};
+				 						oField.multiRule = true;
+				 						oValidator = oField.extensions['CharacterSet'];
+				 					} else {
+				 						oValidator = oField;
+				 					}
+				 					oValidator.name = "logonId";
+				 					oValidator.type = "CharacterSet";
+				 					oValidator.fieldNameType = "static";
+				 					oValidator.displayNameKey = "PF_LOGON_ID";
+				 					
+			 							oValidator.displayNameText = 'Användarnamn';
+			 						
+					 						oValidator.fieldNameRE = "false";
+				 						
+				 					oValidator.errorMessageKey = pf.validate.extendedRuleDefaultMessge;	 					
+				 					oValidator.criteria = {};
+				 					var oCritera = oValidator.criteria;
+				 							 									 						
+				 						oCritera.name = "charsetname";
+				 						var test = null;
+				 						if(dojo.byId("hiddenCardNumber")){
+				 							 test = dojo.byId("hiddenCardNumber").value;
+				 						}
+				 						if(test !=null && oValidator.name == "cardNumber"){
+				 						  // cardNumber contains token so skip length validation
+				 						}else{
+				 						 	oCritera.maxLengthValue = "CharSetRegExp";
+				 						}
+				 						
+				 						oCritera.errorMsgKeyFE = "PF_GLOBAL_CHARSET_1";
+				 									 								 							
+				 							oCritera.errorMsgKeyFE = 'Du har angivit ett värde med ogiltiga tecken i de markerade fälten nedan. Granska ditt val och ange endast <a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFCMSContentRequest?catalogId=15001&langId=46&storeId=10177&requestURI=faqs-my-account#formvalidchars" target="_blank" class="errorMessageLink" >giltiga tecken</a>.';
+				 						
+				 						oCritera.regExp = '';
+				 						
+				 						if(test !=null && oValidator.name == "cardNumber"){
+				 						 	// cardNumber contains token so skip cardNumber validation
+				 						}else{
+				 							 	oCritera.regExp = /^^[a-zA-Z0-9\s!"#\$%&'\(\)\*\+,\-\./:;<=>\?@\[\]\^_`\{\}~\u00A1-\u00FF]*$$/;
+				 							}
+				 									 						
+				 						//if error message is a maxlength type paramtise the message correctly
+				 						
+				 				
+				 					var oValidator = {};
+				 					if(oField.type){
+				 						//already exists to use extensions obj
+				 						oField.extensions['FieldLength'] = {};
+				 						oField.multiRule = true;
+				 						oValidator = oField.extensions['FieldLength'];
+				 					} else {
+				 						oValidator = oField;
+				 					}
+				 					oValidator.name = "logonId";
+				 					oValidator.type = "FieldLength";
+				 					oValidator.fieldNameType = "static";
+				 					oValidator.displayNameKey = "PF_LOGON_ID";
+				 					
+			 							oValidator.displayNameText = 'Användarnamn';
+			 						
+					 						oValidator.fieldNameRE = "false";
+				 						
+				 					oValidator.errorMessageKey = pf.validate.extendedRuleDefaultMessge;	 					
+				 					oValidator.criteria = {};
+				 					var oCritera = oValidator.criteria;
+				 							 									 						
+				 						oCritera.name = "MAXLENGTH";
+				 						var test = null;
+				 						if(dojo.byId("hiddenCardNumber")){
+				 							 test = dojo.byId("hiddenCardNumber").value;
+				 						}
+				 						if(test !=null && oValidator.name == "cardNumber"){
+				 						  // cardNumber contains token so skip length validation
+				 						}else{
+				 						 	oCritera.maxLengthValue = "20";
+				 						}
+				 						
+				 						oCritera.errorMsgKeyFE = "PF_GLOBAL_MAXLENGTH_1";
+				 									 								 							
+				 							oCritera.errorMsgKeyFE = '<a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFCMSContentRequest?catalogId=15001&langId=46&storeId=10177&requestURI=faqs-my-account#formvalidchars" target="_blank" class="errorMessageLink" >???PF_GLOBAL_MAXLENGTH_1_LINKTEXT1???</a> har överskridit Användarnamn teckengräns Minska antalet tecken och försök på nytt.';
+				 						
+				 						oCritera.regExp = '';
+				 									 						
+				 						//if error message is a maxlength type paramtise the message correctly
+				 						
+	                                    oValidator.displayNameText = 'Användarnamn';
+				 							oCritera.errorMsgKeyFE = 'Användarnamn har överskridit 20 teckengräns Minska antalet tecken och försök på nytt.';
+				 						
+				 			pf.validate.extendedRules['Logon']['logonPassword'] = {};
+				 			var oField = pf.validate.extendedRules['Logon']['logonPassword'];
+				 			oField.extensions = {};
+				 			
+				 				
+				 					var oValidator = {};
+				 					if(oField.type){
+				 						//already exists to use extensions obj
+				 						oField.extensions['CharacterSet'] = {};
+				 						oField.multiRule = true;
+				 						oValidator = oField.extensions['CharacterSet'];
+				 					} else {
+				 						oValidator = oField;
+				 					}
+				 					oValidator.name = "logonPassword";
+				 					oValidator.type = "CharacterSet";
+				 					oValidator.fieldNameType = "static";
+				 					oValidator.displayNameKey = "PF_PO_PASSWORD";
+				 					
+			 							oValidator.displayNameText = 'Lösenord';
+			 						
+					 						oValidator.fieldNameRE = "false";
+				 						
+				 					oValidator.errorMessageKey = pf.validate.extendedRuleDefaultMessge;	 					
+				 					oValidator.criteria = {};
+				 					var oCritera = oValidator.criteria;
+				 							 									 						
+				 						oCritera.name = "charsetname";
+				 						var test = null;
+				 						if(dojo.byId("hiddenCardNumber")){
+				 							 test = dojo.byId("hiddenCardNumber").value;
+				 						}
+				 						if(test !=null && oValidator.name == "cardNumber"){
+				 						  // cardNumber contains token so skip length validation
+				 						}else{
+				 						 	oCritera.maxLengthValue = "CharSetRegExpNoWhiteSpace";
+				 						}
+				 						
+				 						oCritera.errorMsgKeyFE = "PF_GLOBAL_CHARSET_1";
+				 									 								 							
+				 							oCritera.errorMsgKeyFE = 'Du har angivit ett värde med ogiltiga tecken i de markerade fälten nedan. Granska ditt val och ange endast <a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFCMSContentRequest?catalogId=15001&langId=46&storeId=10177&requestURI=faqs-my-account#formvalidchars" target="_blank" class="errorMessageLink" >giltiga tecken</a>.';
+				 						
+				 						oCritera.regExp = '';
+				 						
+				 						if(test !=null && oValidator.name == "cardNumber"){
+				 						 	// cardNumber contains token so skip cardNumber validation
+				 						}else{
+				 							 	oCritera.regExp = /^^[a-zA-Z0-9!"#\$%&'\(\)\*\+,\-\./:;<=>\?@\[\]\^_`\{\}~\u00A1-\u00FF]*$$/;
+				 							}
+				 									 						
+				 						//if error message is a maxlength type paramtise the message correctly
+				 						
+				 				
+				 					var oValidator = {};
+				 					if(oField.type){
+				 						//already exists to use extensions obj
+				 						oField.extensions['FieldLength'] = {};
+				 						oField.multiRule = true;
+				 						oValidator = oField.extensions['FieldLength'];
+				 					} else {
+				 						oValidator = oField;
+				 					}
+				 					oValidator.name = "logonPassword";
+				 					oValidator.type = "FieldLength";
+				 					oValidator.fieldNameType = "static";
+				 					oValidator.displayNameKey = "PF_PO_PASSWORD";
+				 					
+			 							oValidator.displayNameText = 'Lösenord';
+			 						
+					 						oValidator.fieldNameRE = "false";
+				 						
+				 					oValidator.errorMessageKey = pf.validate.extendedRuleDefaultMessge;	 					
+				 					oValidator.criteria = {};
+				 					var oCritera = oValidator.criteria;
+				 							 									 						
+				 						oCritera.name = "MAXLENGTH";
+				 						var test = null;
+				 						if(dojo.byId("hiddenCardNumber")){
+				 							 test = dojo.byId("hiddenCardNumber").value;
+				 						}
+				 						if(test !=null && oValidator.name == "cardNumber"){
+				 						  // cardNumber contains token so skip length validation
+				 						}else{
+				 						 	oCritera.maxLengthValue = "20";
+				 						}
+				 						
+				 						oCritera.errorMsgKeyFE = "PF_GLOBAL_MAXLENGTH_1";
+				 									 								 							
+				 							oCritera.errorMsgKeyFE = '<a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFCMSContentRequest?catalogId=15001&langId=46&storeId=10177&requestURI=faqs-my-account#formvalidchars" target="_blank" class="errorMessageLink" >???PF_GLOBAL_MAXLENGTH_1_LINKTEXT1???</a> har överskridit Lösenord teckengräns Minska antalet tecken och försök på nytt.';
+				 						
+				 						oCritera.regExp = '';
+				 									 						
+				 						//if error message is a maxlength type paramtise the message correctly
+				 						
+	                                    oValidator.displayNameText = 'Lösenord';
+				 							oCritera.errorMsgKeyFE = 'Lösenord har överskridit 20 teckengräns Minska antalet tecken och försök på nytt.';
+				 						
+				
+				//merge extended ruls into validate obj
+				pf.validate.extendedRulesMethods();
+	
+			}
+		});
+	});	
+	
+</script>
+
+
+	
+	     <script type="text/javascript">
+             if(!window.pf){ window.pf = {}; }
+             pf.canonical = {};
+             pf.canonical.data = {};
+             pf.canonical.data.type='DYNAMIC';
+        </script>
+				        
+
+	
+				<meta name="description" content="Electronic Components Distributor | Farnell element14 Sverige" />
+		    
+		
+<link type="text/css" rel="stylesheet" href="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/css/europe/revoHeader_europe.css"/>  <script>  (function (i, s, o, g, r, a, m) {  i['GoogleAnalyticsObject'] = r;  i[r] = i[r] || function () {  (i[r].q = i[r].q || []).push(arguments)  }, i[r].l = 1 * new Date();  a = s.createElement(o),  m = s.getElementsByTagName(o)[0];  a.async = 1;  a.src = g;  m.parentNode.insertBefore(a, m)  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');  ga('create', 'UA-33052043-27', 'auto');  ga('send', 'pageview');  </script>  <script type="text/javascript">  var lpUnit = 'sv_SE';  function mkOnReady(event_function) {  var event_name = 'load';  if (window.attachEvent) {  window.attachEvent("on" + event_name, function () {  var initchk = function () {  if (!mkPfjs.isArrayTest) {  initMk(dojo);  }  };  initchk.call(window);  event_function.call(window);  });  } else if (window.addEventListener) {  window.addEventListener(event_name, function () {  if (!mkPfjs.isArrayTest) {  initMk(dojo);  }  }, false);  window.addEventListener(event_name, event_function, false);  }  }  ;  </script>  <link type="text/css" rel="stylesheet" href="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/css/common/mk-styles-global-overrides.css?v7"/><link type="text/css" rel="stylesheet" href="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/css/common/mk_merchandising.1.0.2.css?mk_ver=2"/><link type="text/css" rel="stylesheet" href="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/css/europe/mk_merchandising_2.css?mk_ver=2"/><link type="text/css" rel="stylesheet" href="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/css/europe/mk-property-highlights.css"/>
+    
+	
+</head>
+
+<body>
+<div id="page">
+     
+    
+
+<div id="wrap" class="revoHeader show-responsive-menus"> 
+
+	<!-- START: CachedHeaderDisplay.jsp -->
+<input type="hidden" id ="usersSessionID" name="usersSessionID" value ="100409926592">
+
+<input type="hidden" id ="userSessionExpiryTime" name="userSessionExpiryTime" value ="60000">
+
+               
+                    <div  data-dojo-type="dijit.Dialog" class="dialogbox" id="SessionOverlayContainerId"  style="display:none;">
+
+                        <div id="sessionLogoutAlertWrap" class="sessionOverlay">
+                            <div id="firstTimerContent">    
+                                <h3 >För din egen säkerhet kommer strax du att bli utloggad</h3>
+                                <div class="secsDisplay">                        
+                                    <p id="countDownTime" > &nbsp;<span id="time">60</span> sekunder </p>
+                                </div>
+                                <div id="continueBtnWrap" class="cancelBtn">                    
+                                    <a class="cntbtn" onclick="pf.timeOutOverlay.hideSessionContinueDialog()" id="continueBtn" href="#">
+                                    Fortsätt
+                                    </a>                    
+                                </div>
+                            </div>
+
+                            <div id="secondLogbackContent" style="display:none;">   
+                                <h3 >För din egen säkerhet har du loggats ut</h3>
+                                <div id="continueBtnWrap"  class="cancelBtn">                   
+                                    <a class="cntbtn" onclick="pf.timeOutOverlay.hideSessionLogoutDialog()" id="continueBtn" href="#">
+                                    Logga in igen
+                                    </a>                    
+                                </div>
+                            </div>
+                        </div>                              
+                    </div>
+
+<!-- START: standardHeader.jspf -->
+<div id="skipLinks">
+    <a href="#bodyContainer">
+        Skip to main content
+    </a>    
+</div>
+
+<div id="head" class="primary" role="banner">
+    <div id="headContent" class="pfHeader group">
+
+        <div id="storeLogos">
+            
+
+
+
+
+<div class="genericESpot" id="storeLogoESpot">
+    
+    
+            <div class="ad" id="ad_storeLogoESpot">
+        <span class="mkt-cms-source" style="display:none;"><!-- /common/espots/storeLogoESpot.html --></span><!--CONTENT FOR EUROPE-->        <DIV><link type="text/css" rel="stylesheet" href="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/css/common/mk_merchandising.css"/><div class="rlogo"><a class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Store Logo" href="http://se.farnell.com/" id="storeLogosEu" title="Farnell element14"></a></div></DIV>
+            </div>
+        
+
+
+</div>
+
+
+            <span class="organizationName">
+                
+
+
+
+
+<div class="genericESpot" id="storeLogoESpot02">
+    
+    
+
+
+</div>
+
+            </span>
+
+            
+        </div><!-- end of id="storeLogos" -->
+        <div id="secondaryHeaderLinks">
+            
+
+
+
+
+<div class="genericESpot" id="pf_header_espot_02">
+    
+    
+            <div class="ad" id="ad_pf_header_espot_02">
+        <span class="mkt-cms-source" style="display:none;"><!-- content/common/espots/pf-header-espot-02.html--></span><!--CONTENT FOR EUROPE--><DIV><ul id="main"><li class="mk-bar" id="mainmenuBar2"><a href="http://se.farnell.com/applications" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Top Navigation - Applications">Applications <span class="navDownB">&nbsp;&nbsp;</span></a><ul id="mainmenuDropdown2"><li><a href="http://se.farnell.com/automotive-application">Automotive</a></li><li><a href="http://se.farnell.com/alternative-energy-applications">Alternative Energy</a></li><li><a href="http://se.farnell.com/led-lighting-applications">LEDs and LED Lighting</a></li><li><a href="http://se.farnell.com/medical-technology-applications">Medical</a></li><li><a href="http://se.farnell.com/robotics-applications">Robotics</a></li><li><a href="http://se.farnell.com/sensing-applications">Sensing</a></li><li><a href="http://se.farnell.com/wireless-connection-applications">Wireless</a></li></ul></li><li class="mk-bar" id="mainmenuBar3"><a href="http://se.farnell.com/tjanster" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Top Navigation - Services Production">Tjänster / Produktion <span class="navDownB">&nbsp;&nbsp;</span></a><ul id="mainmenuDropdown3" class="mainmenuDropdown3_EU"><li><a href="http://se.farnell.com/designresurser">Teknikdesignlösningar</a></li><li><a href="http://se.farnell.com/support-for-anlaggningar-och-drift">Support för anläggningar och drift</a></li><li><a href="http://se.farnell.com/support-for-inkop-och-upphandling">Support för inköp och upphandling</a></li><li><a href="http://se.farnell.com/kontraktstillverkningstjanster">Produktion och kontraktstillverkningstjänster</a></li><li><a href="http://se.farnell.com/kalibreringstjanster">Kalibreringstjänster</a></li><li><a href="http://se.farnell.com/forpackningslosningar">Förpackningslösningar</a></li>            <!--<li><a href="http://se.farnell.com/help-handelsdisk">Handelsdisk</a></li>-->            <li><a href="http://se.farnell.com/help-leveransinformation">Leveransinformation</a></li><li><a href="http://se.farnell.com/meddelandetjanst-for-foraldrade-produkter">Meddelandetjänst för föråldrade produkter</a></li><li><a rel="nofollow" href="http://www.element14.com/community/community/designcenter" target="_blank"><span class="mk-properties-highlight">element14 Design Center</span></a></li><li><a href="http://se.farnell.com/utvecklingsverktyg">Utvecklingsverktyg</a></li><li><a href="/cadsoft">CadSoft EAGLE PCB</a></li><li><a rel="nofollow" href="http://www.element14.com/community/community/pcb_prototyping" target="_blank">PCB-tjänster</a></li><li><a rel="nofollow" href="http://www.element14.com/community/community/legislation" target="_blank">Lagstiftning            och RoHS</a></li><li><a href="http://se.farnell.com/teknisk-support">Teknisk support</a></li><li><a href="http://se.farnell.com/laboratorietillbehor">Laboratorietillbehör</a></li></ul></li>    <!--<li class="mk-bar" id="mainmenuBar4">-->        <!--<a href="http://se.farnell.com/designresurser" class="omTagEvt" data-prop="eVar9|prop3"-->           <!--data-om="Header: Top Navigation - Design Resources">Designresurser <span class="navDownB">&nbsp;&nbsp;</span></a>-->        <!--<ul id="mainmenuDropdown4">-->            <!--<li><a rel="nofollow" href="http://www.element14.com/community/community/designcenter" target="_blank"><span-->                    <!--class="mk-properties-highlight">element14 Design Center</span></a>-->            <!--</li>-->            <!--<li><a href="http://se.farnell.com/utvecklingsverktyg">Utvecklingsverktyg</a></li>-->            <!--<li><a href="/cadsoft">CadSoft EAGLE PCB</a></li>-->            <!--<li><a rel="nofollow" href="http://www.element14.com/community/community/pcb_prototyping" target="_blank">PCB-tjänster</a>-->            <!--</li>-->            <!--<li><a rel="nofollow" href="http://www.element14.com/community/community/legislation" target="_blank">Lagstiftning-->                <!--och RoHS</a></li>-->            <!--<li><a href="http://se.farnell.com/teknisk-support">Teknisk support</a></li>-->            <!--<li><a href="http://se.farnell.com/laboratorietillbehor">Laboratorietillbehör</a></li>-->        <!--</ul>-->    <!--</li>-->    <li class="mk-bar" id="mainmenuBar6" style="margin-right:-5px;"><a href="http://se.farnell.com/kop-verktyg" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Top Navigation - Buying Tools">Köpverktyg <span class="navDownB">&nbsp;&nbsp;</span></a><ul id="mainmenuDropdown6" class="mainmenuDropdown6_EU"><li><a href="http://se.farnell.com/interaktiva-kataloger">Interaktiva kataloger</a></li><li><a href="/webapp/wcs/stores/servlet/NonAjaxBillOfMaterialsView" id="uploadBillOfMaterials">Ladda upp                stycklista (artikelförteckning)</a></li><li><a href="/snabborder">Snabbköp</a></li><li><a href="http://se.farnell.com/begar-en-offert">Begär en offert</a></li><li><a href="http://se.farnell.com/ibuy">iBuy</a></li><li><a href="http://se.farnell.com/purchase-to-pay">Purchase-to-pay</a></li><li><a href="http://se.farnell.com/epass-api">API för ePass</a></li><li><a href="http://se.farnell.com/einvoicing">e-faktura</a></li>            <!--<li><a href="">Sökverktyg för webbläsare</a></li>-->            <li><a href="http://se.farnell.com/kop-verktyg">Visa alla köpverktyg</a></li></ul></li>    <!--<li class="mk-bar" id="mainmenuBar7">-->        <!--<span class="eequote">Tel. 08 730 5000 | </span>-->    <!--</li>-->    <li class="no-arrow"><a class="omTagEvt bld" data-prop="eVar9|prop3" data-om="Header: Help Section Click" href="http://se.farnell.com/hjalpcenter">Hjälp</a></li><li id="countryListWrapper" class="no-arrow"><div id="countrySel" data-countries="countriesListDropdown" data-zfix="storeSearch"><div id="selectedCountryMenu" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Change Country"><div class="sv_SE"></div><span class="navDownB navdowncArr">&nbsp;&nbsp;</span>                <!-- <span>Välj land</span> --> </div></div><div id="countriesListDropdown" class="countriesListDropdownEU"><div class="countries"><p class="reg">Nord- och Sydamerika</p><ul class="dim1"><li class="pt_BR"><a href="http://www.newark.com/brazil-direct-ship" rel="nofollow"><div></div>                        Brasilien <span class="lang">(portugu&ecirc;s)</span></a></li><li class="en_CA"><a href="http://canada.newark.com" rel="nofollow"><div></div>                        Kanada</a></li><li class="es_MX"><a href="http://mexico.newark.com" rel="nofollow"><div></div>                        Mexiko <span class="lang">(espa&ntilde;ol)</span></a></li><li class="en_US"><a href="http://www.newark.com" rel="nofollow"><div></div>                        Förenta Staterna</a></li></ul></div><div class="countries"><div id="europe" class="colSpaceEU"><p class="reg">Europa</p><ul class="dim2"><li class="de_AT"><a href="http://at.farnell.com" rel="nofollow"><div></div>                            Österrike <span class="lang">(Deutsch)  </span></a></li><li class="nl_BE"><a href="http://be.farnell.com" rel="nofollow"><div></div>                            Belgien <span class="lang">(Nederlands, fran&ccedil;ais)</span></a></li><li class="bg_BG"><a href="http://bg.farnell.com" rel="nofollow"><div></div>                            Bulgarien <span class="lang">(&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;)</span></a></li><li class="cs_CZ"><a href="http://cz.farnell.com" rel="nofollow"><div></div>                            Tjeckien <span class="lang">(čeština)</span></a></li><li class="da_DK"><a href="http://dk.farnell.com" rel="nofollow"><div></div>                            Danmark <span class="lang">(dansk)</span></a></li><li class="et_EE"><a href="http://ee.farnell.com" rel="nofollow"><div></div>                            Estland <span class="lang">(eesti keel)</span></a></li><li class="fi_FI"><a href="http://fi.farnell.com" rel="nofollow"><div></div>                            Finland <span class="lang">(suomi)</span></a></li><li class="fr_FR"><a href="http://fr.farnell.com" rel="nofollow"><div></div>                            Frankrike <span class="lang">(fran&ccedil;ais)</span></a></li><li class="de_DE"><a href="http://de.farnell.com" rel="nofollow"><div></div>                            Tyskland <span class="lang">(Deutsch)</span></a></li><li class="hu_HU"><a href="http://hu.farnell.com" rel="nofollow"><div></div>                            Ungern <span class="lang">(magyar)</span></a></li><li class="en_IE"><a href="http://ie.farnell.com" rel="nofollow"><div></div>                            Irland</a></li><li class="en_IL"><a href="http://il.farnell.com" rel="nofollow"><div></div>                            Israel</a></li><li class="it_IT"><a href="http://it.farnell.com" rel="nofollow"><div></div>                            Italien <span class="lang">(italiano)</span></a></li><li class="lv_LV"><a href="http://lv.farnell.com" rel="nofollow"><div></div>                            Lettland <span class="lang">(latviešu)</span></a></li></ul><ul class="dim2"><li class="lt_LT"><a href="http://lt.farnell.com" rel="nofollow"><div></div>                            Litauen <span class="lang">(lietuvių k.)</span></a></li><li class="nl_NL"><a href="http://nl.farnell.com" rel="nofollow"><div></div>                            Nederländerna <span class="lang">(Nederlands)</span></a></li><li class="no_NO"><a href="http://no.farnell.com" rel="nofollow"><div></div>                            Norge <span class="lang">(norsk)</span></a></li><li class="pl_PL"><a href="http://pl.farnell.com" rel="nofollow"><div></div>                            Polen <span class="lang">(polski)</span></a></li><li class="pt_PT"><a href="http://pt.farnell.com" rel="nofollow"><div></div>                            Portugal <span class="lang">(portugu&ecirc;s)</span></a></li><li class="ro_RO"><a href="http://ro.farnell.com" rel="nofollow"><div></div>                            Rumänien <span class="lang">(Română)</span></a></li><li class="ru_RU"><a href="http://ru.farnell.com" rel="nofollow"><div></div>                            Ryssland <span class="lang">(p&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;)</span></a></li><li class="sk_SK"><a href="http://sk.farnell.com" rel="nofollow"><div></div>                            Slovakien <span class="lang">(slovenčina)</span></a></li><li class="sl_SL"><a href="http://si.farnell.com" rel="nofollow"><div></div>                            Slovenien <span class="lang">(slovenščina)</span></a></li><li class="es_ES"><a href="http://es.farnell.com" rel="nofollow"><div></div>                            Spanien <span class="lang">(espa&ntilde;ol)</span></a></li><li class="sv_SE"><a href="http://se.farnell.com" rel="nofollow"><div></div>                            Sverige <span class="lang">(svenska)</span></a></li><li class="de_CH"><a href="http://ch.farnell.com" rel="nofollow"><div></div>                            Schweiz <span class="lang">(Deutsch, fran&ccedil;ais)</span></a></li><li class="tr_TR"><a href="http://tr.farnell.com" rel="nofollow"><div></div>                            Turkiet <span class="lang">(Türkçe)</span></a></li><li class="en_UK"><a href="http://uk.farnell.com"><div></div>                            Storbritannien</a></li></ul><p>Hittar du inte ditt land? Bes&#246;k v&#229;r <a href="http://export.farnell.com/jsp/home/homepage.jsp?_DARGS=/jsp/home/exportHome.jsp_A&_DAV=en_EX_DIRECTEXP" rel="nofollow">exportwebbplats</a> eller <a href="">hitta lokala                        &#229;terf&#246;rs&#228;ljare</a>.</p></div></div><div class="countries"><div id="asia"><p class="reg lv3">Asien och Stillahavsområdet</p><ul class="dim1"><li class="en_AU"><a href="http://au.element14.com" rel="nofollow"><div></div>                            Australien</a></li><li class="zh_CN"><a href="http://cn.element14.com" rel="nofollow"><div></div>                            Kina <span class="lang">(&#31616;&#20307;&#20013;&#25991;)</span></a></li><li class="en_HK"><a href="http://hk.element14.com" rel="nofollow"><div></div>                            Hong Kong</a></li><li class="en_IN"><a href="http://in.element14.com" rel="nofollow"><div></div>                            Indien</a></li><li class="ko_KR"><a href="http://kr.element14.com" rel="nofollow"><div></div>                            Korea <span class="lang">(&#54620;&#44397;&#50612;)</span></a></li><li class="en_MY"><a href="http://my.element14.com" rel="nofollow"><div></div>                            Malaysia</a></li><li class="en_NZ"><a href="http://nz.element14.com" rel="nofollow"><div></div>                            Nya Zeeland</a></li><li class="en_PH"><a href="http://ph.element14.com" rel="nofollow"><div></div>                            Filippinerna</a></li><li class="en_SG"><a href="http://sg.element14.com" rel="nofollow"><div></div>                            Singapore</a></li><li class="zh_TW"><a href="http://tw.element14.com" rel="nofollow"><div></div>                            Taiwan <span class="lang">(&#32321;&#39636;&#20013;&#25991;)</span></a></li><li class="th_TH"><a href="http://th.element14.com" rel="nofollow"><div></div>                            Thailand <span class="lang">(&#3652;&#3607;&#3618;)</span></a></li></ul><p>Hittar du inte ditt land? Bes&#246;k v&#229;r <a href="http://sg.element14.com" rel="nofollow">exportwebbplats</a>                        eller <a href="">hitta lokala &#229;terf&#246;rs&#228;ljare</a>.</p></div></div></div></li></ul><script type="text/javascript" language="javascript">    mkOnReady(function () {        mkPfjs.headerNavDropdownFix();        mkPfjs.activeMenubarFix();    });</script></DIV>
+            </div>
+        
+
+
+</div>
+
+        </div>
+
+        <div class="wideLoad group">
+
+        	
+            <div id="languageSelector">
+                <!-- change form -->
+
+
+
+<form name="LanguageSelectionForm">
+	<input type="hidden" name="storeId" id="storeId" value="10177" />
+	<input type="hidden" name="catalogId" id="catalogId" value="15001" />
+	
+	<label for="languageSelection" class="nodisplay">
+		Välj ditt språk
+	</label>
+	<div id="langSel" style="display:none;">Select Language</div>
+	<ul id="languageSelectionUL" style="display:none;">
+		
+			<li  class="selected">    		     
+			    
+				<a href="javascript:void(0);" data-rel="46" class="langSelect omTagEvt" data-prop="eVar9|prop3" data-om="Header: Change Language" data-token="">
+					Swedish
+				</a>
+			</li>
+		
+		<input type="hidden" id="languageSelection" name="langId" value="46" />
+	</ul>
+</form>
+
+            </div>
+
+            <!-- START: userLinks.jspf -->
+<div id="loginRegister">
+	<p id="guestPar">
+		<a href="http://se.farnell.com/webapp/wcs/stores/servlet/LogonForm?returnToURL=http%3A%2F%2Fse.farnell.com%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FproductSeoURL%3Dharwin%26catalogId%3D15001%26partNumber%3D7992122%26storeId%3D10177&catalogId=15001&myAcctMain=1&langId=46&storeId=10177" class="logLink omTagEvt" data-prop="eVar9|prop3" data-om="Header: Log In" >Logga in</a> | <a href="http://se.farnell.com/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&returnToURL=http%3A%2F%2Fse.farnell.com%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FProductDisplay%3FproductSeoURL%3Dharwin%26catalogId%3D15001%26partNumber%3D7992122%26storeId%3D10177&catalogId=15001&myAcctMain=&langId=46&storeId=10177" class="regLink omTagEvt" data-prop="eVar9|prop3" data-om="Header: Register" >Registrera</a>					
+		
+	</p>
+	
+	<p id="loggedInPar">
+		Hej <span class="userFirstNameLoggedInn"></span>. (Är det här inte du?) <a href="https://se.farnell.com/webapp/wcs/stores/servlet/Logoff?catalogId=15001&myAcctMain=1&langId=46&storeId=10177&URL=LogonForm" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Log out" >Logga ut</a>
+	</p>
+</div>
+<!-- END: userLinks.jspf -->
+            <div id="headerLinks">
+                
+
+
+
+
+<div class="genericESpot" id="pf_header_espot_01">
+    
+    
+            <div class="ad" id="ad_pf_header_espot_01">
+        <span class="mkt-cms-source" style="display:none;"><!-- content/common/espots/pf-header-espot-01.html--></span><!--CONTENT FOR EUROPE--><DIV><div id="utilityContent"><ul id="utility"><li><ul class="myaccount"><li><a href="/webapp/wcs/stores/servlet/UserAccountView?myAcctMain=1" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Top Navigation - Quick Order">Mitt konto <span class="navDownB">&nbsp;&nbsp;</span></a> <!-- My account menu for Non iBuy/Punchout -->                            <ul> <!-- Logged in only because of permissions issue on prod -->                                <li><a href="/webapp/wcs/stores/servlet/PFOrderSearch?fromDate=&poNumber=&pageNumber=0&toDate=">Orderstatus                                        och spårning</a></li><li><a href="/webapp/wcs/stores/servlet/AjaxOrderItemDisplayView">Kundkorg</a></li><li><a href="http://se.farnell.com/help-sa-har-returnerar-du-en-produkt">Returnera en produkt</a></li><li><a href="/webapp/wcs/stores/servlet/UserRegistrationForm?editRegistration=Y">Profilinformation</a></li><li><a href="/webapp/wcs/stores/servlet/NonAjaxAddressBookForm">Adresser</a></li><li><a href="/webapp/wcs/stores/servlet/EQuoteSearch?currentSelection=myEQuotesSlct">Offerter</a></li><li><a href="/webapp/wcs/stores/servlet/NonAjaxSavedBasketsView?currentSelection=savedBasketsSlct">Sparade                                        kundkorgar</a></li><li><a href="/webapp/wcs/stores/servlet/RequisitionListDisplayView">Favoriter</a></li><li><a href="/webapp/wcs/stores/servlet/OrderPreferencesView">Orderinställningar</a></li><li><a href="/webapp/wcs/stores/servlet/NotificationPreferencesView">Aviseringsinställningar</a></li><li><a href="http://se.farnell.com/handelskonto-mitt-konto">Ansök om ett handelskonto</a></li></ul></li></ul></li></ul></div><script type="text/javascript" language="javascript">    mkOnReady(function () {        mkPfjs.toggleCountryDropdown('#countrySel');    });</script></DIV>
+            </div>
+        
+
+
+</div>
+
+            </div>
+
+            
+	        <div id="menu-toggler">
+	        	<span class="menu-text">
+        			Meny
+	        	</span>
+	        	<div class="icon icon-bar">
+	        		<span class="bar"></span>
+	        		<span class="bar"></span>
+	        		<span class="bar"></span>
+	        	</div>
+	        	<div class="icon icon-down-open"></div>
+	        </div>
+
+        </div><!-- end of class="wideLoad" -->
+
+    </div><!-- end of id="headContent" --><!--  START: CachedHeaderDisplay_search.jspf -->
+
+<script type="text/javascript">
+	var globalnewSearchURL = "http://se.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=46&storeId=10177";
+	var globalnewSearchURLAll = "http://se.farnell.com/webapp/wcs/stores/servlet/SearchLookAheadAll?catalogId=15001&langId=46&storeId=10177";
+	var rootNodeURL = "http://se.farnell.com/bladdra-efter-produkter";
+	var globalCatDropDownSubmit = false;
+
+	function selectSearchLanguage(selectedLocale) {
+		if (selectedLocale) {
+			dojo.cookie('PF_SEARCHLANG', selectedLocale, { expires: 7, path : '/' });
+			location.reload(true);
+		}
+	
+	}
+	function selectCategory() {
+	    var categoryBox = document.getElementById("categoryIdBox");	
+	    var x = categoryBox[categoryBox.selectedIndex].text;
+	    if(x.length > 22)
+		{
+	    document.getElementById("demo").innerHTML =  x.substring(0, 22) + "..."; 
+		}
+		else
+		 {
+	    document.getElementById("demo").innerHTML = x ;
+	    }
+	}
+</script>
+
+
+
+<div id="storeSearch" class="group searchToggleV2">
+		
+
+		
+
+        <div id="blueBar"></div>
+
+		<div class="shop-by-category-dropdown">
+			
+
+
+
+
+<div class="genericESpot" id="pf_header_espot_06">
+    
+    
+            <div class="ad" id="ad_pf_header_espot_06">
+        <span class="mkt-cms-source" style="display:none;"><!-- /common/espots/pf-header-espot-06.html--></span>     <!--CONTENT FOR EUROPE-->    <DIV><div id="prodMenu"><ul class="topMenu">        <!-- <li><a href="/browse-for-products"><span style="font-weight:bold;font-size:1.22em;">All Products</span> -->        <li><a href="/bladdra-efter-produkter"><span class="bigt">Alla produkter</span><span class="navDownW">&nbsp;&nbsp;</span></a><ul><li><a href="/tillverkare">Alla tillverkare</a></li><li><a href="http://se.farnell.com/specialerbjudanden">Specialerbjudanden</a></li><li><a href="/Search?sf=455">Nya produkter</a></li><li><a href="http://se.farnell.com/prisvarda-varumarken">Prisv&#xE4;rda varum&#xE4;rken</a></li><li><a href="http://se.farnell.com/bastsaljande-produkter">B&#xE4;sts&#xE4;ljande produkter</a></li><li><a href="http://se.farnell.com/roadtests-produktgranskningar">RoadTests produktgranskningar</a></li></ul></li></ul></div></DIV>
+            </div>
+        
+
+
+</div>
+
+		</div>
+
+		<form name="CatalogSearchForm" action="Search" method="get" id="CatalogSearchForm">
+		
+		
+			<input type="hidden" name="storeId" value="10177" />
+			<input type="hidden" name="catalogId" value="15001" />
+			
+				<input type="hidden" name="categoryName" id="categoryName" value="" />
+				<input type="hidden" name="selectedCategoryId" id="selectedCategoryId" value="" />
+				
+			
+			<input type="hidden" name="langId" value="46" /><label for="SimpleSearchForm_SearchTerm" class="nodisplay">
+				???SEARCH_CATALOG???
+			</label>
+			
+
+			<div id="header-search">
+			
+			<div id="lookAhead"> 
+				<div class="nav-left">
+		
+				
+
+				    <div id="catContainer" class="btn btnTertiary">
+				  		<span id="demo">
+	           Alla kategorier
+				  			
+				  		</span> 
+				  		<span id="nav-icon"> </span>
+				    </div>
+
+		<select id="categoryIdBox" name="categoryIdBox" class="searchOptions"
+			onchange="javascript:selectCategory();">
+			
+					<option value="" selected="selected">Alla kategorier</option>
+				
+				<option value="700000004001">Automation & Processkontroll</option>
+
+			
+				<option value="700000004381">Batterier & Laddare</option>
+
+			
+				<option value="700000050501">Belysningssortiment</option>
+
+			
+				<option value="700000006151">Brytare & Reläer</option>
+
+			
+				<option value="700000005098">Elprodukter</option>
+
+			
+				<option value="700000004664">Fästdon & Verkstad</option>
+
+			
+				<option value="700000004630">Halvledare - Diskreta</option>
+
+			
+				<option value="700000004166">Halvledare - IC-kretsar</option>
+
+			
+				<option value="700000005565">Halvledare - Moduler</option>
+
+			
+				<option value="700000005983">Kabel, Tråd & Kablage</option>
+
+			
+				<option value="700000004390">Kemikalier & Adhesiv</option>
+
+			
+				<option value="700000004911">Kontaktdon</option>
+
+			
+				<option value="700000006272">Kretsskydd</option>
+
+			
+				<option value="700000005186">Kristaller & Oscillatorer</option>
+
+			
+				<option value="700000005495">Kyl- & Värmehantering</option>
+
+			
+				<option value="700000025001">Mjukvara & Felsökningsverktyg</option>
+
+			
+				<option value="700000006053">Optoelektronik & Displayer</option>
+
+			
+				<option value="700000005398">Passiva Komponenter</option>
+
+			
+				<option value="700000005197">Produkter för Kontor, Dator & Nätverk</option>
+
+			
+				<option value="700000005618">Produkter för Statisk Kontroll, Platssäkerhet & Renrum</option>
+
+			
+				<option value="700000005867">Sensorer & Givare</option>
+
+			
+				<option value="700000005050">Skyddslådor, Rack & Skåp</option>
+
+			
+				<option value="700000004410">Strömskydd & Ledningsskydd</option>
+
+			
+				<option value="700000004443">Säkerhet & Audiovisuell Teknik</option>
+
+			
+				<option value="700000005707">Test & Mätning</option>
+
+			
+				<option value="700000005689">Transformatorer</option>
+
+			
+				<option value="700000005123">Utvecklingskort & Utvärderingskit</option>
+
+			
+				<option value="700000006302">Verktygs- & Tillverkningsmaterial</option>
+
+			
+		</select>
+
+	
+               
+		            <div class="toggleLangDropdown">
+			            
+			                    <div class="selectedLang">
+			                         <span class="sv_SE"></span>
+			                         <span class="drop-down-icon"></span>		                         
+			                    </div>
+			                    <div class="langToggleOptions">
+				                    <a class="sv_SE" href="javascript: selectSearchLanguage('sv_SE');" title="på svenska">
+				                        
+				                    </a>			                    
+				                    <a class="en_GB" href="javascript: selectSearchLanguage('en_GB');" title="in English">
+				                        
+				                    </a>
+			                    </div>
+			                
+			          </div>            
+		        
+				
+				</div>
+				<div class="nav-right" style="display: block">
+					<span class="submitWrap">
+	
+			<input type="submit" class="search-btn btn btnPrimary"
+				id="searchMain"
+				value="Sök" />
+		
+					</span>	
+				</div>
+				<div class="nav-fill">
+					
+					<span id="searchTextHolder" class="nodisplay">Nyckelord/Artikelnummer</span>
+					<input type="hidden" id="searchTextHolder_val" value="Nyckelord/Artikelnummer" />
+					
+					
+					<input 	autocomplete="off" accesskey="0"
+							type="text" class="search-txt" name="st" id="SimpleSearchForm_SearchTerm"
+							placeholder="Nyckelord/Artikelnummer" 
+							size="18" onkeypress="if (event.keyCode == 13) document.getElementById('WC_CatalogSearchForm_link_1').click();"/>
+					
+					
+
+					<span id="toggleResults" class="hideResults" title="Visa förslag"> 
+						<span class="pfIcon pfPlus">&nbsp;</span>
+					</span> 
+				</div>
+				<div id="lookAheadResponse">
+						<div></div>
+				</div>
+				</div>
+
+				<div id="searchFilter">
+					
+						<input type="checkbox" id="ssf_inStock" name="ssf_inStock" value="727"/>
+						<a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFCMSContentRequest?catalogId=15001&langId=46&storeId=10177&requestURI=inStock" id="inStockTooltip">
+							i lager
+							<span class="pfIcon pfTooltip">&nbsp;</span>
+						</a>
+						
+						<span class="divider">&#124</span>
+					
+						<a href="http://se.farnell.com/webapp/wcs/stores/servlet/AdvancedSearchSetup?catalogId=15001&langId=46&storeId=10177">Avancerad sökning</a>
+					
+				</div>
+			</div>
+		</form>
+	
+
+    <div id="tertiaryMenuItems" class="group">
+
+        <div class="espot">
+                
+
+
+
+
+<div class="genericESpot" id="pf_header_espot_07">
+    
+    
+            <div class="ad" id="ad_pf_header_espot_07">
+             <!--CONTENT FOR EUROPE-->    <DIV><ul><li class="mk-bar" id="mainmenuBar8"><a rel="nofollow" href="http://www.element14.com/community/index.jspa" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Top Navigation - element14" target="_blank"><span class="e14comm_EC">Community</span></a><ul id="mainmenuDropdown8_svSE" class="last"><li><a rel="nofollow" href="http://www.element14.com/community/groups/roadtest?CMP=TRC-menubar-roadtests-eu-se" target="_blank">RoadTests</a></li><li><a rel="nofollow" href="http://www.element14.com/community/community/events?CMP=TRC-menubar-webinars-eu-se" target="_blank">Webbseminarier</a></li><li><a rel="nofollow" href="http://www.element14.com/community/community/design-challenges" target="_blank">Design                Challenges</a></li><li><a rel="nofollow" href="http://www.element14.com/community/community/experts/benheck?CMP=TRC-menubar-benheck-eu-se" target="_blank">Ben Heck Show</a></li><li><a rel="nofollow" href="http://www.element14.com/community/community/members/this_week_on_community?CMP=TRC-menubar-thisweek-eu-se" target="_blank">Denna vecka på Community</a></li><li><a rel="nofollow" href="http://www.element14.com/community/content?CMP=TRC-menubar-latestdiscussions-eu-se" target="_blank">De senaste diskussionerna</a></li><li><a rel="nofollow" href="http://www.element14.com/community/content?filterID=all~objecttype~objecttype[blogpost]&ICID=menubar_content_blogs&CMP=TRC-menubar-recentblogs-eu-se" target="_blank">De senaste bloggposterna</a></li></ul></li></ul></DIV>
+            </div>
+        
+
+
+</div>
+
+            </div>
+
+        
+        <div id="outerCartContainer" >       
+            <div id="MiniShoppingCart" widgetId="MiniShoppingCart" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" tabindex="0">
+                <!-- BEGIN PFMiniShopCartDisplay.jsp --><!-- If we get here from a generic error this service will fail so we need to catch the exception -->
+
+<a id="shoppingCartBar" href="OrderCalculate?calculationUsageId=-1&updatePrices=1&catalogId=15001&errorViewName=AjaxOrderItemDisplayView&orderId=.&langId=46&storeId=10177&URL=AjaxOrderItemDisplayView" tabindex="0" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: Shopping Basket Click">
+	<span class="icon icon-basket"></span>
+	<span class="items-qty">
+		
+		0 artiklar
+	</span>
+	<br />
+	<span class="price-total">
+		0,00 kr
+	</span>
+</a>
+
+
+
+<div id="placeHolder"></div>
+
+<div id="quick_cart_container" tabindex="0">
+	<div id="quick_cart">
+		<div class="container empty" id="WC_MiniShopCartDisplay_div_1">
+			<!-- Contains 3 div..PlaceHolder div, DropDownContents div and the recently added Product div -->
+			<div id="MiniShopCartProductsList" style="display:none" class="list" tabindex="0">
+
+				
+						<div class="emptyList">
+							<div class="close closeOverlay closeOverlayWrap">
+								<a class="closeLink closeIconWrap" href="#">
+									<span class="pfIcon pfClose">&nbsp;</span>
+								</a>
+								<a class="closeLink closeTextWrap" href="#">
+									Stäng
+								</a>
+							</div>
+							<p>Varukorgen är tom</p>
+						</div>
+						<input type="hidden" id="taggingBasketItems" value=""/>
+
+						<div class="footer"></div>
+					
+				<div id="miniBasketTip">&nbsp;</div>
+			</div>
+
+			<div id="MiniShopCartProductAdded" style="display:none" class="list" tabindex="0">
+				<div class="close closeOverlay closeOverlayWrap">
+					<a class="closeLink closeIconWrap" href="#">
+						<span class="pfIcon pfClose">&nbsp;</span>
+					</a>
+					<a class="closeLink closeTextWrap" href="#">
+						Stäng
+					</a>
+				</div>
+				<div id="successful">
+					<h3><span class="pfIcon pfTick">&nbsp;</span>Denna artikel har lagts till i din varukorg</h3>
+
+					<div id="miniWarning"></div>
+					<p class="titleDesc"><strong id="prodShortDesc"></strong></p>
+
+					<p><strong>Beställningskod</strong><span class="mcValue" id="prodOrderCode"></span></p>
+
+					<p><strong>Tillverkare</strong><span class="mcValue" id="manuVal"></span></p>
+
+					<p><strong>Antal</strong><span class="mcValue" id="qtyVal"></span></p>
+					
+					<p><strong>Enhetspris</strong><span class="mcValue" id="prodPrice"></span></p>
+
+					<p id="mcRereelChargeContainer" class="displayNone"><strong>Debitering för överföring</strong><span class="mcValue" id="mcRereelCharge"></span></p>
+
+					<div id="assocSuccessful" style="display:none">
+						<div id="miniWarning"></div>
+						<p class="titleDesc"><strong id="assocProdShortDesc"></strong></p>
+
+						<p><strong>Beställningskod</strong><span class="mcValue" id="assocProdOrderCode"></span></p>
+
+						<p><strong>Tillverkare</strong><span class="mcValue" id="assocManuVal"></span></p>
+
+						<p><strong>Antal</strong><span class="mcValue" id="assocQtyVal"></span></p>
+
+						<p><strong>Enhetspris</strong><span class="mcValue" id="assocProdPrice"></span></p>
+					</div>
+				</div>
+				<div id="notAdded">
+					<div id="miniWarningEr"></div>
+				</div>
+				<div class="actionBox actionFullWidth miniBasketAction">
+					<a href="#" class="btn btnTertiary btnSmall closeLink">Fortsätt handla</a>
+					<a href="OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=15001&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=46&amp;storeId=10177&amp;URL=AjaxOrderItemDisplayView" class="btn btnPrimary btnSmall">
+						<span class="pfTrolleyWhite"></span>
+						Fortsätt till kassan
+					</a>
+				</div>
+				<div id="miniBasketTip">&nbsp;</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+<!-- END MiniShopCartDisplay.jsp -->
+            </div>
+    </div>
+    </div>
+
+</div><!--  END: CachedHeaderDisplay_search.jspf -->
+
+    <div id="welcomeBar">
+        
+
+
+
+
+<div class="genericESpot" id="pf_header_espot_03">
+    
+    
+            <div class="ad" id="ad_pf_header_espot_03">
+        <span class="mkt-cms-source" style="display:none;"><!-- content/common/espots/pf-header-espot-03.html--></span><!--CONTENT FOR EUROPE--><DIV><!--Besöker du webbplatsen för första gången? <a href="http://se.farnell.com/ny-pa-farnell-element14" class="omTagEvt" data-prop="eVar9|prop3" data-om="Header: New - Start Here">Börja här</a>--><span class="mk-clear"><DIV><!--promo-strip controller--><style>    .dj_ie7 .mk-promo-wrapper {        display: none;    }    #pf_header_espot_03 {        width: 100%;    }    .mk-promo-wrapper div {        display: inline;    }    .mk-promo-wrapper {        text-align: center;        background-color: #FFFFFF;        border-top: 1px solid #cccccc;        border-bottom: 1px solid #cccccc;        overflow: hidden;        margin: 0px;        height: 28px;        font-family: arial, helvetica, sans-serif;        padding-top: 6px;    }    .mk-promo-wrapper,.mk-promo-wrapper * {        box-sizing: border-box;    }    .mk-promo-wrapper a {        font-size: 11px;    }    .mk-promo-content-wrap {        display: inline;    }    .mk-promo-content {    }    .mk-rightmargin-x {        margin-right: 20px;    }    .mk-promo-content a {        text-decoration: none !important;        color: #383838 !important;        padding: 8px;    }    .mk-promo-content a:hover {        background-color: #f1f1f1 !important;        color: #000000 !important;    }    .mk-promo-content .mk-emphasis-text {        color: #000000 !important;    }    /* Desktops and laptops ----------- */    @media only screen    and (min-width: 1224px) {        .mk-rightmargin-x {            margin-right: 20px;        }        .mk-promo-wrapper a {            font-size: 12px;        }    }</style>    <!-- AOV Offer FR, IT -->    <div class="mk-col-100 mk-promo-wrapper mk-topmargin-6"><span class="mk-promo-content-wrap"><span class="mk-promo-content mk-rightmargin-x"><DIV><!--promo-strip-slot1-controller-->    <!-- UK - SOHC -->        <!-- IE - next day delivery -->        <!-- EXPORT - REMOVAL OF next day delivery -->        <!-- AOV July Offer FR, IT -->        <!-- UK - SOHC -->    <DIV><style>    .mk-promo-icon1 {        background: url("/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/images/europe/common/homepage/promo-strip/delivery-icon.png") no-repeat;        background-position: left center;        padding-left: 22px !important;    }</style><!--promo-strip-content-1--><a href="http://se.farnell.com/help-leveransinformation/?ICID=glo-pro-sohc" class="mk-promo-icon1"><strong>Kostnadsfri leverans nästa arbetsdag </strong> av beställningar på över 500 kr* </a></DIV></DIV></span><span class="mk-promo-content mk-rightmargin-x"><DIV><!--promo-strip-slot2-controller-->    <!-- ES PT - slot 2 -->        <!-- UK - slot 2 -->        <!-- UK - no slot 2 -->    <DIV><style>    .mk-emphasis-text-pi {        color: #c50a3e !important;    }    .mk-promo-icon-support {        background: url("/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/images/europe/common/homepage/promo-strip/tech-support-icon.png") no-repeat;        background-position: left center;        padding-left: 21px !important;    }</style><!--promo-strip-content-3--><a href="/technical-support?ICID=glo-pro-fts" class="mk-promo-icon-support">Kostnadsfri teknisk support på engelska</a></DIV></DIV></span><span class="mk-promo-content"><DIV><!--promo-strip-slot3-controller--><DIV><style>    .mk-emphasis-text-aov1 { font-size: 1.2em; color:#fff !important; padding: 7px 20px; margin: 0px 5px; background: #111f3e url("/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/images/europe/common/homepage/promo-strip/pointer-blank.png") no-repeat; background-position: right center;}    .mk-emphasis-text-aov2 { color:#6DC0DE !important;}</style><a href="http://se.farnell.com/basket-value-offers?ICID=promo-aov-offer" class="mk-span-bold"><span class="mk-emphasis-text-aov1"><strong>Spara upp till <span class="mk-emphasis-text-aov2">10 %</span> på nätet*</strong></span></a></DIV></DIV></span></span></div><!-- EMERGENCY MESSAGE Single country--><!-- EMERGENCY MESSAGE --><!--<style>-->    <!--.mk-emergency-message-wrapper {-->        <!--text-align: center;-->        <!--background-color: #E8E7E7;-->        <!--overflow: hidden;-->        <!--margin: 0;-->        <!--font-family: arial, helvetica, sans-serif;-->        <!--padding: 3px 0;-->        <!--border-bottom: 1px solid #cccccc;-->    <!--}--><!--</style>--><!--<div class="mk-emergency-message-wrapper">-->    <!--<x:embed type="content" data="promo-strip-emergency-message"/>--><!--</div>--></DIV></span></DIV>
+            </div>
+        
+
+
+</div>
+
+    </div>
+
+  
+    <div id="liveSupport" class="eSpot">
+        
+
+
+
+
+<div class="genericESpot" id="pf_header_espot_livesupport">
+    
+    
+            <div class="ad" id="ad_pf_header_espot_livesupport">
+        <span class="mkt-cms-source" style="display:none;"><!-- content/common/espots/pf-footer-espot-01.html --></span><!--CONTENT FOR EUROPE--><!--<x:embed type="content" data="pf-header-espot-livesupport-eu"/>--><!-- Placeholder for a global LivePerson Container --><div id="lpchatbutton1"><!--<a href="http://se.farnell.com/kontakta-oss" class="omTagEvt lsprt" data-prop="eVar9|prop3" data-om="Header: Live Support">Contact Us</a>--></div>
+            </div>
+        
+
+
+</div>
+
+    </div>
+   
+</div>
+<!-- END: standardHeader.jspf -->
+<div class="popupContent" id="approvalsInitOverlay" dojoType="dijit.Dialog" aria-describedby="intro" style="display:none">
+	<div class="header">
+		<div class="close">
+		    <a class="closeOverlay" href="javascript:void(0)">
+				<span class="icon">
+					<span class="pfIcon pfClose">&nbsp;</span>
+					Stäng
+				</span>
+   			 </a>
+		</div>
+	</div>
+	<div class="bodyarea">
+		<div class="bodycontent">
+			<div class="popBody">
+				<h2>Ordergodkännande</h2>
+				<p class="">Det finns order som väntar på ditt godkännande.</p>
+
+				<div class="actionBox actionFullWidth">
+					<a href="#" class="closeOverlay btn btnSecondary">Godkänn senare</a>
+					
+					<a href="https://se.farnell.com/webapp/wcs/stores/servlet/OrdersReportsSearch?currentSelection=ordersReportsSlct&amp;onLoadDefaultSearch=true&amp;catalogId=15001&amp;langId=46&amp;includeSubTier=true&amp;leftNav=true&amp;storeId=10177" class="btn btnPrimary">Visa nu</a>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+    	<div class="bot_left"></div>
+    	<div class="bot_right"></div>
+	</div>
+</div><!-- BEGIN PFSegmentation.jsp -->
+
+<script type="text/javascript">
+	var storeId = "10177";
+	var langId = "46";
+	var catalogId = "15001";
+	var globalRegion = 'europe';
+	var globalisAuth = false;
+	
+
+	var globalisRememberedWC = 'false';
+	var globaluserType = 'guest';
+	
+	
+			var globaluserType = 'guest';
+		
+	
+	//set configurable minibaskets timings
+	var globaladdedTime = 10000;
+	var globalintentTime = 250;
+	var globalhoverTimeout = 250;
+	
+	var globalLangCount = 1;
+	
+	
+</script>
+
+<!-- END: CachedHeaderDisplay.jsp -->
+	
+	<div id="bodyContainer" class="layoutOne">
+	
+		
+
+<script type="text/javascript">
+
+	pf.inlineScripts.push(function(){
+		pf.validate.rules.Logon = {};
+		pf.validate.rules.Logon.errors = {
+			'requiredString': 'Ange all nödvändig information. Följande angavs inte:', // This line is required on all for validation
+			'errorTitle': 'Korrigera följande fält:', // This line is required on all for validation
+			'required': {
+				'error': 'Ange all nödvändig information. Följande angavs inte:', // This line is required on all for validation
+				'logonId': 'Användarnamn',
+				'logonPassword': 'Lösenord'
+			}
+		}
+	
+		
+		pf.validate.rules.Logon['required'] = {
+			'required': 'false',
+			'type': '',
+			'mask': ''
+		}
+		
+		pf.validate.rules.Logon['logonId'] = {
+			'required': 'true',
+			'type': '',
+			'mask': ''
+		}
+		
+		pf.validate.rules.Logon['logonPassword'] = {
+			'required': 'true',
+			'type': '',
+			'mask': ''
+		}
+		
+		pf.validate.rules.Logon['remMeShared'] = {
+			'required': 'false',
+			'type': '',
+			'mask': ''
+		}
+		
+		pf.validate.rules.Logon['rememberMe'] = {
+			'required': 'false',
+			'type': '',
+			'mask': ''
+		}
+		
+		
+		//check to see if framed or timed out
+		if (self === top) {
+		  //console.log("not framed")
+		} else {
+		  if(parent.window){
+		      parent.window.location.reload();
+		  }
+		}
+		
+	});
+
+</script>
+
+
+<div id="article" class="content logIn">
+
+	<h1>
+		Logga in
+	</h1>
+
+	<form method="post" name="Logon" action="Logon" id="Logon" class="formField">
+		<input type="hidden" name="storeId" value="10177" id="WC_AccountDisplay_FormInput_storeId_In_Logon_1"/>
+		<input type="hidden" name="catalogId" value="15001" id="WC_AccountDisplay_FormInput_catalogId_In_Logon_1"/>
+		<input type="hidden" name="reLogonURL" value="LogonForm" id="WC_AccountDisplay_FormInput_reLogonURL_In_Logon_1"/>
+		<input type="hidden" name="errorViewName" value="LogonForm" id="WC_AccountDisplay_FormInput_errorViewName_In_Logon_1"/>
+		<input type="hidden" name="taggingReferrer" id="taggingReferrer" value=""/>
+		
+				<input type="hidden" name="myAcctMain" value=""/>
+			
+						<input type="hidden" name="URL" value="OpenCAD?msg=&amp;catalogId=15001&amp;langId=46&amp;id=700000324166&amp;storeId=10177&amp;returnURL=http%3A%2F%2Fse.farnell.com%2Fnxp%2Fmpl115a1%2Fbarometer-digital-50-115kpa-spi%2Fdp%2F2238137" id="WC_AccountDisplay_FormInput_URL_In_Logon_1"/>
+					
+
+		<div class="registerLink">
+			Ny kund? <a href="http://se.farnell.com/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&catalogId=15001&myAcctMain=&langId=46&storeId=10177&URL=OpenCAD%3Fmsg%3D%26catalogId%3D15001%26langId%3D46%26id%3D700000324166%26storeId%3D10177%26returnURL%3Dhttp%253A%252F%252Fse.farnell.com%252Fnxp%252Fmpl115a1%252Fbarometer-digital-50-115kpa-spi%252Fdp%252F2238137" class="regLink" >Registrera dig nu</a>
+		</div>
+
+		<div class="formFields labelLeft intro">
+			<h2>Återkommande kund</h2>
+
+			<div class="hr">
+				<hr/>
+			</div>
+
+			
+				<div class="requiredMessage">
+					<p>*Obligatoriskt fält</p>
+				</div>
+			
+		<div id="formErrors" class="displayNone"></div>		
+	
+	<div id="MessageArea" class="displayNone" style="clear:both;"> 
+		<div id="ErrorMessageText">&nbsp;</div>		
+		<div id="SuccessMessageText">&nbsp;</div>
+	</div>
+
+<!-- Tealeaf tagging starts -->   
+	<div class="displayNone TLFM_screenOutput">
+	       <div class="displayNone TLFM_Severity">Low</div>
+	       <div class="displayNone TLFM_MessageID"></div>
+	       <div class="displayNone TLFM_MessageTx"></div> 
+	       <div class="displayNone TLFM_AddIno"></div>
+	       <div class="displayNone TLFM_ServerResponse"></div>
+			
+	</div>
+<!-- Tealeaf tagging Ends -->
+
+			<p>
+				<!-- OT#59853 - requestURI hardcoding removed. The value to be populated from XCOMREG  -->Du har redan registrerat dig på den här sidan och kan logga in. Om du behöver hjälp kan du kontakta oss på <a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFCMSContentRequest?catalogId=15001&langId=46&storeId=10177&requestURI=kontakta-oss">kontakta kundtjänst</a>.
+			</p>
+		</div>
+
+		<div class="formFields labelLeft logonUser">
+			<label for="logonId">
+				<span class="ft_red">*</span>Användarnamn
+			</label>
+
+			<div>
+				<!-- SMALL PPRJECT User Story 2353  START -->
+									<input size="35" autocomplete="off" type="text" name="logonId" id="logonId" value="" />
+								<!-- SMALL PPRJECT User Story 2353  END -->
+			</div>
+		</div>
+
+		<div class="formFields labelLeft">
+			<label for="logonPassword">
+				<span class="ft_red">*</span>Lösenord
+			</label>
+
+			<div>
+				<input size="35" type="password" name="logonPassword" id="logonPassword" value="" autocomplete="off"/>
+			</div>
+		</div>
+
+		<div class="formFields labelLeft forgottenLinks">
+			<ul class="">
+				<li><a href="http://se.farnell.com/webapp/wcs/stores/servlet/ResetPasswordGuestErrorView?state=forgetpassword&amp;catalogId=15001&amp;langId=46&amp;storeId=10177">Glömt ditt lösenord?</a></li>
+				<li class="end"><a href="http://se.farnell.com/webapp/wcs/stores/servlet/PFUserNameRetrieveView?catalogId=15001&amp;langId=46&amp;storeId=10177">Glömt ditt användarnamn?</a></li>
+			</ul>
+		</div>
+
+		
+
+		<div class="actionBox labelLeft loadingControlLoginOrRegister">
+			<input class="btn btnPrimary disAfterSub" type="submit" value="Logga in"/>
+		</div>
+
+		<div style="display: none;" id="toolTipSection">
+			
+			<span style="display: none;" connectid="remMeToolTip" dojotype="wc.widget.Tooltip" id="wc_widget_Tooltip_0" widgetid="wc_widget_Tooltip_0" class="dijitTooltipData">
+				<div class="tooltip_popup">
+					<div class="header">&nbsp;</div>
+					<div class="bodyarea">
+						Kom ihåg mig:Sparar ditt användarnamn så att du inte behöver ange det vid varje besök.Sparar varukorgens innehåll om sessionen tar för lång tid.Om du delar datorn med andra rekommenderar vi att du inte använder den här funktionen, eftersom andra då kan
+					</div>
+					<div class="footer">&nbsp;</div>
+				</div>
+			</span>
+		</div>
+	</form>
+</div>
+   
+        <div class="ad" id="WC_AccountDisplay_div_31">
+			
+
+
+
+
+<div class="genericESpot" id="SignInPageESpot">
+    
+    
+
+
+</div>
+
+		</div>
+
+
+
+	
+</div>
+
+	<div id="footer">
+		
+
+
+
+
+<div class="genericESpot" id="pf_footer_espot_01">
+    
+    
+            <div class="ad" id="ad_pf_footer_espot_01">
+        <span class="mkt-cms-source" style="display:none;"><!-- content/common/espots/pf-footer-espot-01.html --></span><!--CONTENT FOR EUROPE--><DIV><div class="wrapper EU_responsive"><div class="left EU_responsive"><a class="footer_logo eu-farnell" href="/" title="Farnell element14"></a></div><div class="right EU_signup_responsive"><ul class="mainNav"><li class="first"><a href="http://se.farnell.com/produkter" class="omTagEvt" data-om="Footer: Main Navigation - Products" data-prop="eVar9|prop3">Produkter</a></li><li><a href="http://se.farnell.com/applications" class="omTagEvt" data-om="Footer: Main Navigation - Applications" data-prop="eVar9|prop3">Applications</a></li><li><a href="http://se.farnell.com/tjanster" class="omTagEvt" data-om="Footer: Main Navigation - Services Production" data-prop="eVar9|prop3">Tjänster /                        produktion</a></li><li><a href="http://se.farnell.com/designresurser" class="omTagEvt" data-om="Footer: Main Navigation - Design Resources" data-prop="eVar9|prop3">Designresurser</a></li><li><a rel="nofollow" href="http://www.element14.com/community/index.jspa" target="_blank" class="omTagEvt" data-om="Footer: Main Navigation - e14Community" data-prop="eVar9|prop3">Community</a></li><li><a href="http://se.farnell.com/kop-verktyg" class="omTagEvt" data-om="Footer: Main Navigation - Buying Tools" data-prop="eVar9|prop3">Köpverktyg</a></li><li><a href="/webapp/wcs/stores/servlet/UserAccountView?myAcctMain=1" class="omTagEvt" data-om="Footer: Main Navigation - My Account" data-prop="eVar9|prop3">Mitt konto</a></li></ul><ul class="subNav"><li class="first"><a href="http://se.farnell.com/om-oss" class="omTagEvt" data-om="Footer: Sub Navigation - About Us" data-prop="eVar9|prop3">Om oss</a></li><li><a href="http://se.farnell.com/kontakta-oss" class="omTagEvt" data-om="Footer: Sub Navigation - Contact Us" data-prop="eVar9|prop3">Kontakta oss</a></li><li><div id="lpchatbutton2"></div></li><li><a href="http://se.farnell.com/hjalpcenter" class="omTagEvt" data-om="Footer: Sub Navigation - Help" data-prop="eVar9|prop3">Hjälp</a></li><li><a href="/webbplatskarta" class="omTagEvt" data-om="Footer: Sub Navigation - Sitemap" data-prop="eVar9|prop3">Webbplatskarta</a></li><li><a href="http://se.farnell.com/leveransbestammelser" class="omTagEvt" data-om="Footer: Sub Navigation - Terms of Purchase" data-prop="eVar9|prop3">Köpvillkor</a></li><li><a href="http://se.farnell.com/terms-of-access" class="omTagEvt" data-om="Footer: Sub Navigation - Terms of Access" data-prop="eVar9|prop3">Åtkomstvillkor</a></li><li><a href="http://se.farnell.com/integritetsforklaring" class="omTagEvt" data-om="Footer: Sub Navigation - Terms of Use" data-prop="eVar9|prop3">Integritetsförklaring</a></li><li><a href="http://se.farnell.com/om-cookies" class="omTagEvt" data-om="Footer: Sub Navigation - Cookies" data-prop="eVar9|prop3">Cookies</a></li></ul><div style="clear:both"></div><div id="hoz_line1"></div><div class="eu-copyright-social eu-copyright-social-fts"><div id="ft-sign-up-blank"><strong> Registrera dig för vårt nyhetsbrev </strong><br/>                        Få omedelbar tillgång till specialerbjudanden och nyheter. <a href="/email-signup?ICID=email-signup"> Ta reda på mer &gt;  </a><form dojoType="dijit.form.Form" class="mk-simple-form1" id="mk-email-sign-up-form" method="post" action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" name="mk-email-sign-up-form" data-validator="" novalidate=""><input type="hidden" name="oid" value="00D20000000J9RF"><input type="hidden" name="retURL" id="retURL" value=""> <!-- <input type=hidden name="retURL" value="https://se.farnell.com/thank-you?from=email-sign-up-form">        -->                            <input type="hidden" id="FirstName" name="first_name" value="Email"><input type="hidden" id="recordType" name="recordType" value="012w00000006p3a"><input type="hidden" id="lead_source" name="lead_source" value="Email Newsletter Signup"><input type="hidden" id="Company" name="Company" value="Email Registrant"><input type="hidden" id="LastName" name="last_name" value="Registrant"><input type="hidden" id="Phone" name="Phone" value="00000000000"><input type="hidden" id="00Nw0000004k42m" name="00Nw0000004k42m" value="1"><input type="hidden" id="00N20000002DaKE" name="00N20000002DaKE" value="Sweden"><input type="hidden" id="00N20000003htEr" name="00N20000003htEr" value="Swedish"><br/><div class="mk-col-50 mk-textleft"><div id="mk-form-error" class="mk-form-error-fts"></div><div class="mk-fixed-right-198-fluid-left"><div class="mk-right-fixed"><button type="submitBtn" class="mk-primary-btn mk-btn4 mk-left"><span class="mk-form-highlight">Registrera dig</span></button></div><div class="mk-left-fluid"><label class="mk-simple-form1 topPad0" for="email" type="hidden"></label><input class="mk-lps-simple-form" type="email" name="email" id="email" placeholder="Ange en giltig e-postadress" data-validator="Ange en giltig e-postadress"/></div></div></div><p style="color: #999; margin-top: -20px; margin-bottom: 20px; ">*När du uppger den här                                informationen samtycker du till att ta emot e-postmeddelanden från Premier Farnell                                group, men du kan tacka nej när som helst. <a href="http://se.farnell.com/integritetsforklaring" class="omTagEvt" data-om="Footer: Sub Navigation - Terms of Use" data-prop="eVar9|prop3">Klikk her for å                                    lese våre retningslinjer for personvern.</a></p></input></input></input></input></input></input></input></input></input></input></input></form></div>                    <!-- Thank you content -->                    <div class="mk-col-100" id="ft-aln-fts"><div class="mk-col-66"><div id="ft-email-sign-up-form" class="ft-signup-tku-msg-fts" style="display:none;"><strong>Tack. </strong> Du har lagts till i vår e-postlista:                            </div></div></div>                    <!-- Thank you content -->                    <div class="floatLeft"><ul class="eu-social eu-social-fts"><li><strong>Följ oss på</strong></li><li class="facebook"><div class="image eu"></div><a href="https://www.facebook.com/farnellelectronics" target="_blank">Facebook</a></li><li class="twitter"><div class="image eu"></div><a href="https://twitter.com/FarnellNews" target="_blank">Twitter</a></li><li class="youtube"><div class="image eu"></div><a href="https://www.youtube.com/user/element14" target="_blank">YouTube</a></li><li class="linkedin eu"><div class="image eu"></div><a href="https://www.linkedin.com/company/farnell-element14" target="_blank">LinkedIn</a></li></ul></div></div>      <script type="text/javascript" language="javascript">            function retIEVer() {                var patt = /MSIE/;                var ua = navigator.userAgent;                var patt2, msStr, ieVer;                if (patt.test(ua) === false) {                    return false;                }                patt2 = /MSIE [0-9]{1,2}/;                msStr = ua.match(patt2)[0];                ieVer = msStr.substr(msStr.indexOf(' ') + 1);                return parseInt(ieVer);            }            var currIE = retIEVer();            if (currIE && currIE < 8) {                document.getElementById('ft-sign-up-blank').style.display = 'none';            }            mkOnReady(function () {                var sFormID = "mk-email-sign-up-form";                var sFormErrorMessageID = "mk-form-error";                var sLeadingErrorMessage = dojo.byId(sFormID).getAttribute("data-validator");                var aRequiredFields = [{                    id: "email",                    constraint: "isEmail",                    errorTxt: dojo.byId("email").getAttribute("data-validator")                }];                mkPfjs.formCheck(sFormID, sFormErrorMessageID, sLeadingErrorMessage, aRequiredFields);                var emailid = dojo.byId("email");                dojo.connect(emailid, "onmouseleave", function (evt) {                    emailURL();                });                dojo.connect(emailid, "onkeyup", function (evt) {                    emailURL();                });            });            function emailURL() {                var email_val = document.getElementById('email').value;                email_val = email_val.replace('@', '%40');                var currUrl2 = window.location.href;                var newRetUrl2 = '';                if (currUrl2.indexOf('?') != -1) {                    newRetUrl2 = currUrl2 + '&ftfrom=ft-email-sign-up-form' + '&signmail=' + email_val + '#ft-email-sign-up-form';                } else {                    newRetUrl2 = currUrl2 + '?ftfrom=ft-email-sign-up-form' + '&signmail=' + email_val + '#ft-email-sign-up-form';                }                document.getElementById('retURL').value = newRetUrl2;        }            function getParam(name) {                name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");                var regexS = "[\\?&]" + name + "=([^&#]*)";                var regex = new RegExp(regexS);                var results = regex.exec(window.location.href);                if (results == null)                    return "";                else                    return results[1];            }            var paramFrom = getParam('ftfrom');            var paramEmail = getParam('signmail');            paramEmail = paramEmail.replace('%40', '@');            if (document.getElementById(paramFrom)) {                document.getElementById('ft-sign-up-blank').style.display = 'none';                document.getElementById(paramFrom).style.display = '';                document.getElementById(paramFrom).innerHTML = "<strong>Tack.  </strong> Du har lagts till i vår e-postlista:" + paramEmail;            }                        function showVerisign() {                window.open("https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=se.farnell.com&lang=en", "Verisign", "height=520,width=560,status=no,address=no,location=no,resize=no", true)            }        </script>                <div style="clear:both"></div><div class="eu-copyright-legal-fts"><strong><a href="http://www.premierfarnell.com/" target="_blank">Ett <span class="mk-properties-highlight">Premier Farnell</span>-företag</a></strong><p>                        &copy;2016 <span class="mk-properties-highlight">Premier Farnell</span>                        plc. Med ensamrätt.<br/><span class="mk-properties-highlight">Farnell element14</span>                        är ett handelsnamn för Farnell Components AB.<br/>                        Organisationsnummer: 556534-3976&nbsp;|&nbsp;Registrerat kontor: C/O KPMG AB, Box 227, SE-201 22                        Malmö, Sverige.                    </p><span class="phone"><strong>Kundtjänst</strong>:&nbsp;08 730 5000                            </span></div><div style="clear:both"></div><div id="hoz_line"></div><div class="awards EU_responsive"><a class="award eu-norton" title="Klicka här för att verifiera – Den här webbplatsen har valt VeriSign SSL för säker e-handel och konfidentiell kommunikation." href="javascript:showVerisign()"></a><a class="award rohs" target="_blank" title="Uppfyller RoHS" href="http://www.bsigroup.co.uk/en-GB/our-services/product-certification/industry-sector-schemes/electrical-kitemark-and-product-certification-schemes/environmental-rohs-trusted-kitemark/rohs-faqs/"></a></div></div></div></DIV>
+            </div>
+        
+
+
+</div>
+<!-- 
+	App Server :  7CDDB077909EE193A149A5E806539ADCAC6729676E913CC50BDFFD848C55CD10
+	Request Id :  DDA132259357200A4B58B89EF01EBF3AE09467D312199D65FBF72D4B29CC38E3-G2geGArmA2UAAHgERHMAAACj
+	Generated on: Wed Apr 06 19:26:58 BST 2016
+	(if date is not right this usually means that this page was served from dynacache and not generated by the app server) 
+-->
+	</div>
+
+
+
+</div>
+
+<!--  include omniture tagging --><!-- Set Omniture Tagging variables --><!-- START: pageTagging.jspf --><!-- Omniture Tagging --><script type="text/javascript">
+ pf.inlineScripts.push(function(){
+ pf.tagging.tog.omniture = true;
+ pf.tagging.data.omniture.flag = true;pf.tagging.data.omniture.pageName = "Account:Login";
+pf.tagging.data.omniture.server = "se.farnell.com";
+pf.tagging.data.omniture.channel = "Account";
+pf.tagging.data.omniture.pageType = "";
+var urlVars = pf.base.getURLvars(window.location.href); 
+if (urlVars['CMP']) { 
+   dataCMP = urlVars['CMP']; 
+   pf.tagging.data.omniture.campaign = dataCMP; 
+} else if (urlVars['cmp']) { 
+   dataCMP = urlVars['cmp']; 
+   pf.tagging.data.omniture.campaign = dataCMP; 
+} 
+pf.tagging.data.omniture.eVar2 = "sv_SE";
+pf.tagging.data.omniture.prop2 = "sv_SE";
+pf.tagging.data.omniture.currencyCode = "GBP";
+if (urlVars['COM']) { 
+   dataCOM = urlVars['COM']; 
+   pf.tagging.data.omniture.eVar6 = dataCOM; 
+} else if (urlVars['com']) { 
+   dataCOM = urlVars['com']; 
+   pf.tagging.data.omniture.eVar6 = dataCOM; 
+} 
+if (urlVars['ICID']) { 
+   dataICID = urlVars['ICID']; 
+   pf.tagging.data.omniture.eVar7 = dataICID; 
+} else if (urlVars['icid']) { 
+   dataICID = urlVars['icid']; 
+   pf.tagging.data.omniture.eVar7 = dataICID; 
+} 
+if (urlVars['MER']) { 
+   dataMER = urlVars['MER']; 
+   pf.tagging.data.omniture.eVar8 = dataMER; 
+} else if (urlVars['mer']) { 
+   dataMER = urlVars['mer']; 
+   pf.tagging.data.omniture.eVar8 = dataMER; 
+} 
+if (urlVars['ost']) { 
+   dataSearchTerm = urlVars['ost']; 
+   pf.tagging.data.omniture.eVar14 = dataSearchTerm; 
+   pf.tagging.data.omniture.prop8 = dataSearchTerm; 
+   pf.tagging.data.omniture.eVar13 = 1; 
+   pf.tagging.data.omniture.prop7 = 1; 
+} else if (urlVars['OST']) { 
+   dataSearchTerm = urlVars['OST']; 
+   pf.tagging.data.omniture.eVar14 = dataSearchTerm; 
+   pf.tagging.data.omniture.prop8 = dataSearchTerm; 
+   pf.tagging.data.omniture.eVar13 = 1; 
+   pf.tagging.data.omniture.prop7 = 1; 
+} 
+if (urlVars['MCKV']) { 
+   dataMCKV = urlVars['MCKV']; 
+   pf.tagging.data.omniture.eVar49 = dataMCKV; 
+} else if (urlVars['mckv']) { 
+   dataMCKV = urlVars['mckv']; 
+   pf.tagging.data.omniture.eVar49 = dataMCKV; 
+} 
+if (urlVars['PFFREF']) { 
+   dataPffref = urlVars['PFFREF']; 
+   pf.tagging.data.omniture.referrer = dataPffref; 
+} else if (urlVars['pffref']) { 
+   dataPffref = urlVars['pffref']; 
+   pf.tagging.data.omniture.referrer = dataPffref; 
+} 
+if (urlVars['PFFTID']) { 
+   dataPfftid = urlVars['PFFTID']; 
+   pf.tagging.data.omniture.eVar28 = dataPfftid; 
+} else if (urlVars['pfftid']) { 
+   dataPfftid = urlVars['pfftid']; 
+   pf.tagging.data.omniture.eVar28 = dataPfftid; 
+} 
+pf.tagging.data.omniture.events="event1";
+
+ pf.tagging.data.omniture.reportSuiteId = "pf-e14-se, pf-e14-euro";
+});</script><noscript>   <a href="http://www.omniture.com" title="WebAnalytics">    <img src="https://premierfarnell.112.2O7.net/b/ss/pf-e14-se, pf-e14-euro/1/H.24.3--NS/0" height="1" width="1" border="0" alt="" />   </a></noscript><!-- Demandbase Tagging -->
+
+<script>
+    //for safety move the tagging into the jspf as if this script fails it will not cause an issue.
+    
+    if (window.addEventListener) {
+      window.addEventListener('load', function(){
+        loadDemand();     
+      }, false);
+    }
+    else if (window.attachEvent) {
+      window.attachEvent('onload', function(){
+        loadDemand();
+      });
+    }
+    function loadDemand() {
+        pf.inlineScripts.push(function(){
+            if(pf.tagging.data.demandBase.scriptUrl0 && pf.tagging.tog.demandBase) {
+                var dbJs = location.protocol + '//leads.demandbase.com/'
+                        + pf.tagging.data.demandBase.scriptUrl0 + '.js';                
+                    dojo.create('script', {
+                        type : 'text/javascript',
+                        src : dbJs
+                    }, dojo.body());
+            }
+        });
+    }
+    
+</script>
+
+
+<!-- include baynoteScript for Tagging --> 
+<script type="text/javascript">
+    pf.inlineScripts.push(function(){
+		pf.tagging.tog.baynote = false;
+		
+			pf.tagging.tog.baynote=true;
+			pf.tagging.data.baynote.custId='farnell';
+			pf.tagging.data.baynote.code="se";
+			pf.tagging.data.baynote.domain=".baynote.net";
+			pf.tagging.data.baynote.countryCode="Element14_Sweden";
+		
+	});
+</script><!-- End baynoteScript Tagging --><!-- END: pageTagging.jspf -->
+
+
+
+
+<div class="genericESpot" id="pf_custom_js">
+    
+    
+            <div class="ad" id="ad_pf_custom_js">
+        <span class="mkt-cms-source" style="display:none;"><!-- content/common/espots/pf-custom-js.html--></span><script type="text/javascript" src="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/js/common/mkpflib.1.0.js?mkver=1.83"></script>
+            </div>
+        
+
+
+</div>
+
+	
+  <script type="text/javascript" src="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/js/common/liveSupportChat.js"></script>  <script src="https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/js/common/lib/helpers/validator/properties.js"></script>  <!-- this is the locale globalTags container -->  <script type="text/javascript">  mkOnReady(function () {  /* Cookie compiance */  mkPfjs.cookieCompliance('cookieMessagev3_1', "https://se.farnell.com/wcsstore/ExtendedSitesCatalogAssetStore/cms/asset/media/europe/" + lpUnit + "/global-cookie-compliance.html");  /* End - Cookie compiance */  lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {  'name': 'chat-' + lpUnit,  'pid': 'lpchatbutton1',  'afterStartPage': true  };  lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {  'name': 'chat-' + lpUnit + '-2',  'pid': 'lpchatbutton2',  'afterStartPage': true  };  lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {  'name': 'chat-' + lpUnit + '-3',  'pid': 'lpchatbutton3',  'afterStartPage': true  };  lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {  'name': 'chat-' + lpUnit + '-5',  'pid': 'lpchatbutton5',  'afterStartPage': true  };  lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {  'name': 'chat-' + lpUnit + '-6',  'pid': 'lpchatbutton6',  'afterStartPage': true  };  lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {  'name': 'chat-' + lpUnit + '-7',  'pid': 'lpchatbutton7',  'afterStartPage': true  };  lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {  'name': 'chat-' + lpUnit + '-8',  'pid': 'lpchatbutton8',  'afterStartPage': true  };  if (pf.tagging.tog.omniture) {  if (pf.tagging.data.omniture.pageName === 'Checkout:Order Confirmation') {  var i = pf.tagging.data.omniture.products.lastIndexOf(",;");  var products = pf.tagging.data.omniture.products.substr(1, i);  var aProducts = products.split(";");  var n = 0;  var OrderTotal = 0.00;  while (n < aProducts.length) {  var OrderCode = aProducts[n];  var l = (n === 0) ? 0 : n / 3;  lpAddVars('page', "OrderCode" + l, OrderCode);  if (n + 1 <= aProducts.length) {  var OrderCodeQty = aProducts[n + 1];  lpAddVars('page', "OrderCodeQty" + n, OrderCodeQty);  }  if (n + 2 <= aProducts.length) {  var OrderCodePrice = aProducts[n + 2].replace(/[,]/gi, '');  lpAddVars('page', "OrderCodePrice" + n, OrderCodePrice);  OrderTotal += parseFloat(aProducts[n + 2]);  }  n += 3;  }  var OrderNum = pf.tagging.data.omniture.purchaseID;  lpAddVars('page', 'OrderTotal', OrderTotal.toString());  lpAddVars('page', 'OrderNumber', OrderNum);  if (typeof(lpMTagConfig.lpTagLoaded) != 'undefined' && (!lpMTagConfig.lpTagLoaded)) {  lpMTagConfig.sendCookies = false;  lpAddMonitorTag();  lpMTagConfig.lpTagLoaded = true;  }  ;  } else {  var aTotal = dojo.query('#MiniShoppingCart a.omTagEvt');  if (aTotal.length > 0) {  var searchPat = /[0-9]+[., ]*[0-9]+/g;  var aCartTotal = aTotal[0].innerHTML.match(searchPat);  if (aCartTotal.length == 0) {  cartTotal = '0.00';  } else {  cartTotal = aCartTotal[0];  }  lpAddVars('page', 'CartTotal', cartTotal);  }  var bLogged_In = (pf.base.userType === "guest") ? false : true;  lpAddVars('session', 'Logged_In', bLogged_In);  }  }  });  </script>  <DIV><!-- Google Code for Remarketing Tag --><!--------------------------------------------------Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup------------------------------------------------- -->        <script type="text/javascript">            /* <![CDATA[ */            var google_conversion_id = 1060984260;            var google_custom_params = window.google_tag_params;            var google_remarketing_only = true;            /* ]]> */        </script>        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">        </script>        <noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1060984260/?value=0&amp;guid=ON&amp;script=0"/></div></noscript></DIV>    <!-- end locale globalTags container -->  
+ 
+    
+</body>
+<!-- AccountDisplay.jsp -->
+</html>
